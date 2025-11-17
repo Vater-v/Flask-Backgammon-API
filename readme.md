@@ -133,3 +133,4 @@ flask-backgammon-api/
 ├── requirements.txt      # Зависимости Python
 └── run.py                # Точка входа для запуска сервера
 ```
+v0.18
