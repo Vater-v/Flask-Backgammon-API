@@ -1,0 +1,9 @@
+# --- Основной фреймворк ---
+Flask
+Flask-SocketIO
+Flask-Limiter
+Flask-JWT-Extended
+
+# --- Сервер (для Production) ---
+gunicorn
+eventlet

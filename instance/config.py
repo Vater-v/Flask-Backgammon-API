@@ -1,0 +1,1 @@
+JWT_SECRET_KEY = "v@ry-L0ng-@nd-Rand0m-S3cret-K3y-!_Change_Me_!"

@@ -1,0 +1,1460 @@
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-07 01:54:11] [TYPE: DOWNLOAD_ATTEMPT] [User: Unknown] [Data: IP: 104.23.170.35, User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0] | User requesting file: game-release.apk
+[2025-11-07 02:11:00] [TYPE: DOWNLOAD_ATTEMPT] [User: Unknown] [Data: IP: 172.68.210.14, User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36] | User requesting file: game-release.apk
+[2025-11-07 02:12:13] [TYPE: DOWNLOAD_ATTEMPT] [User: Unknown] [Data: IP: 172.70.254.253, User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36] | User requesting file: game-release.apk
+[2025-11-07 02:14:08] [TYPE: DOWNLOAD_ATTEMPT] [User: Unknown] [Data: IP: 162.158.119.26, User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1] | User requesting file: game-release.apk
+[2025-11-07 02:14:14] [TYPE: DOWNLOAD_ATTEMPT] [User: Unknown] [Data: IP: 108.162.226.110, User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36] | User requesting file: game-release.apk
+[2025-11-07 02:20:12] [TYPE: SESSION_END] [User: Unknown] [SID: hBp-iremcuSIhUudAAAB] | User disconnected. Session duration: N/A
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-07 03:13:04] [TYPE: SESSION_START] [User: Aboba] [SID: _LbzJoGW7ALExJUPAAAB] | User 'Aboba' authenticated and joined.
+[2025-11-07 03:13:15] [TYPE: GAME_CREATE_PVE] [User: Aboba] [SID: _LbzJoGW7ALExJUPAAAB] [GameID: fed9a2f7-fad9-4359-8a74-83d5b57e02ca] | User started new PVE game against Bot_Easy.
+[2025-11-07 03:13:19] [TYPE: SESSION_END] [User: Aboba] [SID: _LbzJoGW7ALExJUPAAAB] | User disconnected. Session duration: 0:00:15
+[2025-11-07 03:25:09] [TYPE: SESSION_START] [User: Aboba] [SID: biFPxlkGTS8gy6aGAAAD] | User 'Aboba' authenticated and joined.
+[2025-11-07 03:25:13] [TYPE: SESSION_END] [User: Aboba] [SID: biFPxlkGTS8gy6aGAAAD] | User disconnected. Session duration: 0:00:04
+[2025-11-07 03:28:10] [TYPE: SESSION_START] [User: Bayan666] [SID: 1WqouNsFAiZ0l3FLAAAF] | User 'Bayan666' authenticated and joined.
+[2025-11-07 03:28:16] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: 1WqouNsFAiZ0l3FLAAAF] [GameID: 3c805fce-83ac-4250-9f66-987cd048ad9e] | User started new PVE game against Bot_Easy.
+[2025-11-07 03:28:23] [TYPE: SESSION_END] [User: Bayan666] [SID: 1WqouNsFAiZ0l3FLAAAF] | User disconnected. Session duration: 0:00:12
+[2025-11-07 04:56:21] [TYPE: SESSION_END] [User: Unknown] [SID: Zl0nIh5xGlGSjb2UAAAH] | User disconnected. Session duration: N/A
+[2025-11-07 04:56:28] [TYPE: SESSION_END] [User: Unknown] [SID: mT-McRQ6qJ2OBJQSAAAJ] | User disconnected. Session duration: N/A
+[2025-11-07 04:58:54] [TYPE: SESSION_END] [User: Unknown] [SID: feW2wUjF-71fbav8AAAL] | User disconnected. Session duration: N/A
+[2025-11-07 05:17:38] [TYPE: SESSION_END] [User: Unknown] [SID: LkFaY8DEA2vcL7ZqAAAN] | User disconnected. Session duration: N/A
+[2025-11-07 05:36:05] [TYPE: SESSION_END] [User: Unknown] [SID: JZYDDj0ZuMcRXJXcAAAP] | User disconnected. Session duration: N/A
+[2025-11-07 05:44:29] [TYPE: SESSION_END] [User: Unknown] [SID: CNimmG_nUmQ4oNkjAAAR] | User disconnected. Session duration: N/A
+[2025-11-07 05:55:54] [TYPE: SESSION_END] [User: Unknown] [SID: gnbfgl9Ng_RbMuXvAAAT] | User disconnected. Session duration: N/A
+[2025-11-07 05:56:01] [TYPE: SESSION_START] [User: Bayan666] [SID: h4lspgUGqMpZ0d9EAAAV] | User 'Bayan666' authenticated and joined.
+[2025-11-07 05:56:03] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: h4lspgUGqMpZ0d9EAAAV] [GameID: 2cf09dc5-7bc2-4bce-bc21-d131f0c3b6bb] | User started new PVE game against Bot_Easy.
+[2025-11-07 05:56:34] [TYPE: SESSION_END] [User: Bayan666] [SID: h4lspgUGqMpZ0d9EAAAV] | User disconnected. Session duration: 0:00:32
+[2025-11-07 05:59:32] [TYPE: SESSION_END] [User: Unknown] [SID: 0HWljbGtG6C8Vsh2AAAX] | User disconnected. Session duration: N/A
+[2025-11-07 06:04:51] [TYPE: SESSION_START] [User: Bayan666] [SID: iLmPxk1apHb7jREqAAAZ] | User 'Bayan666' authenticated and joined.
+[2025-11-07 06:05:00] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: iLmPxk1apHb7jREqAAAZ] [GameID: 917d81db-d921-43f7-bf62-3d5193b1e97f] | User started new PVE game against Bot_Easy.
+[2025-11-07 06:05:10] [TYPE: SESSION_END] [User: Bayan666] [SID: iLmPxk1apHb7jREqAAAZ] | User disconnected. Session duration: 0:00:18
+[2025-11-07 06:05:40] [TYPE: GAME_REJOIN_AUTO] [User: Bayan666] [SID: -MyNXU-a36T2QSUVAAAb] [GameID: 917d81db-d921-43f7-bf62-3d5193b1e97f] | User auto-rejoined game. Role: pve
+[2025-11-07 06:06:35] [TYPE: SESSION_END] [User: Bayan666] [SID: -MyNXU-a36T2QSUVAAAb] | User disconnected. Session duration: 0:00:55
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-07 06:10:03] [TYPE: SESSION_START] [User: Bayan666] [SID: OmgJkvMo52g8a0NjAAAB] | User 'Bayan666' authenticated and joined.
+[2025-11-07 06:10:09] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: OmgJkvMo52g8a0NjAAAB] [GameID: 603c896f-21ce-4f60-b1a1-14451e75b7ed] | User started new PVE game against Bot_Easy.
+[2025-11-07 06:10:27] [TYPE: SESSION_END] [User: Bayan666] [SID: OmgJkvMo52g8a0NjAAAB] | User disconnected. Session duration: 0:00:23
+[2025-11-07 06:10:56] [TYPE: GAME_REJOIN_AUTO] [User: Bayan666] [SID: ZQ0xXDD7FIX6l_SFAAAD] [GameID: 603c896f-21ce-4f60-b1a1-14451e75b7ed] | User auto-rejoined game. Role: pve
+[2025-11-07 06:11:13] [TYPE: SESSION_END] [User: Bayan666] [SID: ZQ0xXDD7FIX6l_SFAAAD] | User disconnected. Session duration: 0:00:17
+[2025-11-07 06:11:25] [TYPE: SESSION_END] [User: Unknown] [SID: MTy9icG3VE6qP8PYAAAF] | User disconnected. Session duration: N/A
+[2025-11-07 06:11:33] [TYPE: GAME_REJOIN_AUTO] [User: Bayan666] [SID: tiXaN3KUTWGoYyIEAAAH] [GameID: 603c896f-21ce-4f60-b1a1-14451e75b7ed] | User auto-rejoined game. Role: pve
+[2025-11-07 06:11:56] [TYPE: SESSION_END] [User: Bayan666] [SID: tiXaN3KUTWGoYyIEAAAH] | User disconnected. Session duration: 0:00:22
+[2025-11-07 06:13:33] [TYPE: SESSION_START] [User: Bayan666] [SID: XAZibPmrSqojTFzqAAAJ] | User 'Bayan666' authenticated and joined.
+[2025-11-07 06:13:38] [TYPE: MATCHMAKING_START] [User: Bayan666] [SID: XAZibPmrSqojTFzqAAAJ] | User started searching for PVP.
+[2025-11-07 06:13:48] [TYPE: MATCHMAKING_START] [User: Bayan666] [SID: XAZibPmrSqojTFzqAAAJ] | User started searching for PVP.
+[2025-11-07 06:14:05] [TYPE: MATCHMAKING_START] [User: Bayan666] [SID: XAZibPmrSqojTFzqAAAJ] | User started searching for PVP.
+[2025-11-07 06:14:43] [TYPE: SESSION_END] [User: Bayan666] [SID: XAZibPmrSqojTFzqAAAJ] | User disconnected. Session duration: 0:01:10
+[2025-11-07 06:23:05] [TYPE: DOWNLOAD_ATTEMPT] [User: Unknown] [Data: IP: 172.70.160.222, User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Vivaldi/5.3.2679.68] | User requesting file: game-release.apk
+[2025-11-07 06:28:36] [TYPE: SESSION_END] [User: Unknown] [SID: 7KldsoJAjLiiGUkjAAAL] | User disconnected. Session duration: N/A
+[2025-11-07 06:28:42] [TYPE: SESSION_START] [User: Bayan666] [SID: Ik2t_JUz14W_QxKaAAAN] | User 'Bayan666' authenticated and joined.
+[2025-11-07 06:31:07] [TYPE: SESSION_END] [User: Bayan666] [SID: Ik2t_JUz14W_QxKaAAAN] | User disconnected. Session duration: 0:02:25
+[2025-11-07 06:37:06] [TYPE: SESSION_START] [User: Bayan666] [SID: LQG9Zaqfg6NF9CFYAAAP] | User 'Bayan666' authenticated and joined.
+[2025-11-07 06:38:30] [TYPE: SESSION_END] [User: Bayan666] [SID: LQG9Zaqfg6NF9CFYAAAP] | User disconnected. Session duration: 0:01:23
+[2025-11-07 06:43:25] [TYPE: SESSION_START] [User: Bayan666] [SID: Xn-GRdTRTiA3TqqnAAAR] | User 'Bayan666' authenticated and joined.
+[2025-11-07 06:44:24] [TYPE: SESSION_END] [User: Bayan666] [SID: Xn-GRdTRTiA3TqqnAAAR] | User disconnected. Session duration: 0:00:58
+[2025-11-07 06:44:39] [TYPE: SESSION_END] [User: Unknown] [SID: 0GaGj6rdz2TZwtNcAAAT] | User disconnected. Session duration: N/A
+[2025-11-07 06:44:45] [TYPE: SESSION_START] [User: Bayan666] [SID: 5X34w4bfjRcRQPZ5AAAV] | User 'Bayan666' authenticated and joined.
+[2025-11-07 06:44:54] [TYPE: SESSION_END] [User: Bayan666] [SID: 5X34w4bfjRcRQPZ5AAAV] | User disconnected. Session duration: 0:00:09
+[2025-11-07 06:48:23] [TYPE: SESSION_START] [User: Bayan666] [SID: aG37LFQLly7OdVKCAAAX] | User 'Bayan666' authenticated and joined.
+[2025-11-07 06:48:44] [TYPE: SESSION_END] [User: Bayan666] [SID: aG37LFQLly7OdVKCAAAX] | User disconnected. Session duration: 0:00:21
+[2025-11-07 06:54:17] [TYPE: SESSION_START] [User: Bayan666] [SID: pP0C5KtM8vMJE1A2AAAZ] | User 'Bayan666' authenticated and joined.
+[2025-11-07 06:54:22] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: pP0C5KtM8vMJE1A2AAAZ] [GameID: 5231851d-171d-4355-aa24-e2cce1aa1055] | User started new PVE game against Bot_Easy.
+[2025-11-07 06:56:25] [TYPE: SESSION_END] [User: Bayan666] [SID: pP0C5KtM8vMJE1A2AAAZ] | User disconnected. Session duration: 0:02:07
+[2025-11-07 06:59:24] [TYPE: SESSION_START] [User: Bayan666] [SID: xqOPixNXV-w1GXQiAAAb] | User 'Bayan666' authenticated and joined.
+[2025-11-07 06:59:28] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: xqOPixNXV-w1GXQiAAAb] [GameID: 4bf3e239-485a-4aab-93e6-88ba182a4dae] | User started new PVE game against Bot_Easy.
+[2025-11-07 07:01:05] [TYPE: SESSION_END] [User: Bayan666] [SID: xqOPixNXV-w1GXQiAAAb] | User disconnected. Session duration: 0:01:40
+[2025-11-07 07:01:24] [TYPE: SESSION_END] [User: Unknown] [SID: 58FQivXoii86L3RPAAAd] | User disconnected. Session duration: N/A
+[2025-11-07 07:01:30] [TYPE: SESSION_START] [User: Bayan666] [SID: PTJOV9tugmA53x12AAAf] | User 'Bayan666' authenticated and joined.
+[2025-11-07 07:01:33] [TYPE: MATCHMAKING_START] [User: Bayan666] [SID: PTJOV9tugmA53x12AAAf] | User started searching for PVP.
+[2025-11-07 07:01:40] [TYPE: SESSION_END] [User: Bayan666] [SID: PTJOV9tugmA53x12AAAf] | User disconnected. Session duration: 0:00:10
+[2025-11-07 07:09:00] [TYPE: SESSION_START] [User: Bayan666] [SID: U_tb_D_GUluNyNKbAAAh] | User 'Bayan666' authenticated and joined.
+[2025-11-07 07:09:02] [TYPE: SESSION_END] [User: Bayan666] [SID: U_tb_D_GUluNyNKbAAAh] | User disconnected. Session duration: 0:00:02
+[2025-11-07 07:09:57] [TYPE: SESSION_START] [User: Bayan666] [SID: dWT-b2h8FwRwaZiyAAAj] | User 'Bayan666' authenticated and joined.
+[2025-11-07 07:10:05] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: dWT-b2h8FwRwaZiyAAAj] [GameID: c356c203-cc28-4af3-9908-29d74817c960] | User started new PVE game against Bot_Easy.
+[2025-11-07 07:10:46] [TYPE: SESSION_END] [User: Bayan666] [SID: dWT-b2h8FwRwaZiyAAAj] | User disconnected. Session duration: 0:00:48
+[2025-11-07 07:19:00] [TYPE: SESSION_END] [User: Unknown] [SID: z7qqDXV1JITJLrRhAAAl] | User disconnected. Session duration: N/A
+[2025-11-07 07:19:04] [TYPE: SESSION_START] [User: Bayan666] [SID: vRg3iaV_QjaRGOJPAAAn] | User 'Bayan666' authenticated and joined.
+[2025-11-07 07:19:06] [TYPE: MATCHMAKING_START] [User: Bayan666] [SID: vRg3iaV_QjaRGOJPAAAn] | User started searching for PVP.
+[2025-11-07 07:19:11] [TYPE: SESSION_END] [User: Bayan666] [SID: vRg3iaV_QjaRGOJPAAAn] | User disconnected. Session duration: 0:00:06
+[2025-11-07 07:19:22] [TYPE: SESSION_START] [User: Bayan666] [SID: HNyBAvpEigDlLlZBAAAp] | User 'Bayan666' authenticated and joined.
+[2025-11-07 07:19:27] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: HNyBAvpEigDlLlZBAAAp] [GameID: 7af398ab-579b-488f-8d76-ad8ca332e5b3] | User started new PVE game against Bot_Easy.
+[2025-11-07 07:20:30] [TYPE: SESSION_END] [User: Bayan666] [SID: HNyBAvpEigDlLlZBAAAp] | User disconnected. Session duration: 0:01:08
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-07 07:22:34] [TYPE: SESSION_START] [User: Bayan666] [SID: 0IBIXaHBcaLdpTNdAAAB] | User 'Bayan666' authenticated and joined.
+[2025-11-07 07:22:38] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: 0IBIXaHBcaLdpTNdAAAB] [GameID: 093a9ca2-59c8-437b-b2a1-f6e21dc97a31] | User started new PVE game against Bot_Easy.
+[2025-11-07 07:23:49] [TYPE: SESSION_END] [User: Bayan666] [SID: 0IBIXaHBcaLdpTNdAAAB] | User disconnected. Session duration: 0:01:14
+[2025-11-07 17:33:23] [TYPE: DOWNLOAD_ATTEMPT] [User: Unknown] [Data: IP: 172.70.115.16, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36] | User requesting file: game-release.apk
+[2025-11-07 17:35:13] [TYPE: DOWNLOAD_ATTEMPT] [User: Unknown] [Data: IP: 172.70.115.16, User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36] | User requesting file: game-release.apk
+[2025-11-07 18:18:53] [TYPE: SESSION_END] [User: Unknown] [SID: Pe5H4U9_YjjwgQInAAAD] | User disconnected. Session duration: N/A
+[2025-11-07 18:18:59] [TYPE: SESSION_START] [User: Bayan666] [SID: KSy0pFRcbFPMCYFlAAAF] | User 'Bayan666' authenticated and joined.
+[2025-11-07 18:19:01] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: KSy0pFRcbFPMCYFlAAAF] [GameID: b6b6c8f3-585b-4505-a1d0-1bf780212bdf] | User started new PVE game against Bot_Easy.
+[2025-11-07 18:19:29] [TYPE: SESSION_END] [User: Bayan666] [SID: KSy0pFRcbFPMCYFlAAAF] | User disconnected. Session duration: 0:00:30
+[2025-11-07 18:22:23] [TYPE: SESSION_START] [User: Bayan666] [SID: nnYeSgBpEiaFNeH-AAAH] | User 'Bayan666' authenticated and joined.
+[2025-11-07 18:22:28] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: nnYeSgBpEiaFNeH-AAAH] [GameID: 6abe339d-315c-4f2d-a5ac-71daf9163a71] | User started new PVE game against Bot_Easy.
+[2025-11-07 18:23:38] [TYPE: SESSION_END] [User: Bayan666] [SID: nnYeSgBpEiaFNeH-AAAH] | User disconnected. Session duration: 0:01:14
+[2025-11-07 18:35:09] [TYPE: SESSION_END] [User: Unknown] [SID: oJwRyOxIlweakgCHAAAJ] | User disconnected. Session duration: N/A
+[2025-11-07 18:35:14] [TYPE: SESSION_START] [User: Bayan666] [SID: ZXQEc6pqU0FRzYVsAAAL] | User 'Bayan666' authenticated and joined.
+[2025-11-07 18:35:16] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: ZXQEc6pqU0FRzYVsAAAL] [GameID: a3d4207a-b4be-4013-a2d7-c88bbb1260e7] | User started new PVE game against Bot_Easy.
+[2025-11-07 18:36:59] [TYPE: SESSION_END] [User: Bayan666] [SID: ZXQEc6pqU0FRzYVsAAAL] | User disconnected. Session duration: 0:01:44
+[2025-11-07 18:46:59] [TYPE: SESSION_START] [User: Bayan666] [SID: 6YZC-TwVAX5gCIanAAAN] | User 'Bayan666' authenticated and joined.
+[2025-11-07 18:47:05] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: 6YZC-TwVAX5gCIanAAAN] [GameID: 94444642-121b-4bec-b9d7-739c72e73c68] | User started new PVE game against Bot_Easy.
+[2025-11-07 18:48:18] [TYPE: SESSION_END] [User: Bayan666] [SID: 6YZC-TwVAX5gCIanAAAN] | User disconnected. Session duration: 0:01:18
+[2025-11-07 20:31:36] [TYPE: SESSION_END] [User: Unknown] [SID: 4kMw_OfGvSQa4MqoAAAP] | User disconnected. Session duration: N/A
+[2025-11-07 20:31:41] [TYPE: SESSION_START] [User: Bayan666] [SID: ZpGZ-lS7OxT2DRtvAAAR] | User 'Bayan666' authenticated and joined.
+[2025-11-07 20:31:43] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: ZpGZ-lS7OxT2DRtvAAAR] [GameID: dbe290c8-8ae9-48fb-afd5-0ba6b2e36e91] | User started new PVE game against Bot_Easy.
+[2025-11-07 20:32:02] [TYPE: SESSION_END] [User: Bayan666] [SID: ZpGZ-lS7OxT2DRtvAAAR] | User disconnected. Session duration: 0:00:21
+[2025-11-07 20:39:39] [TYPE: SESSION_START] [User: Bayan666] [SID: 1IzxngLe1ZxBUElwAAAT] | User 'Bayan666' authenticated and joined.
+[2025-11-07 20:39:43] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: 1IzxngLe1ZxBUElwAAAT] [GameID: dd03fc36-0e30-42ac-a6f3-96ef8e95db63] | User started new PVE game against Bot_Easy.
+[2025-11-07 20:40:28] [TYPE: SESSION_END] [User: Bayan666] [SID: 1IzxngLe1ZxBUElwAAAT] | User disconnected. Session duration: 0:00:48
+[2025-11-08 00:15:11] [TYPE: SESSION_END] [User: Unknown] [SID: W8Iq_rfrZctDWHgFAAAV] | User disconnected. Session duration: N/A
+[2025-11-08 00:15:18] [TYPE: SESSION_START] [User: Bayan666] [SID: 58qwQCqFwGIKgiPgAAAX] | User 'Bayan666' authenticated and joined.
+[2025-11-08 00:15:22] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: 58qwQCqFwGIKgiPgAAAX] [GameID: 32f3c6db-83a8-4249-b86d-a84297f21d5c] | User started new PVE game against Bot_Easy.
+[2025-11-08 00:16:58] [TYPE: SESSION_END] [User: Bayan666] [SID: 58qwQCqFwGIKgiPgAAAX] | User disconnected. Session duration: 0:01:40
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-08 01:56:18] [TYPE: SESSION_END] [User: Unknown] [SID: O-JLqDdZAnlWMIXfAAAB] | User disconnected. Session duration: N/A
+[2025-11-08 01:56:31] [TYPE: SESSION_START] [User: Bayan666] [SID: m1K162HAUd1kmjeCAAAD] | User 'Bayan666' authenticated and joined.
+[2025-11-08 01:56:32] [TYPE: MATCHMAKING_START] [User: Bayan666] [SID: m1K162HAUd1kmjeCAAAD] | User started searching for PVP.
+[2025-11-08 01:56:40] [TYPE: SESSION_END] [User: Bayan666] [SID: m1K162HAUd1kmjeCAAAD] | User disconnected. Session duration: 0:00:09
+[2025-11-08 01:56:56] [TYPE: SESSION_START] [User: Bayan666] [SID: VAqGepxY-FI0CBRcAAAF] | User 'Bayan666' authenticated and joined.
+[2025-11-08 01:57:13] [TYPE: SESSION_END] [User: Bayan666] [SID: VAqGepxY-FI0CBRcAAAF] | User disconnected. Session duration: 0:00:16
+[2025-11-08 02:02:20] [TYPE: SESSION_START] [User: Bayan666] [SID: gXffNAAzAP2CIkvfAAAH] | User 'Bayan666' authenticated and joined.
+[2025-11-08 02:02:24] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: gXffNAAzAP2CIkvfAAAH] [GameID: 41cc7957-295f-49a1-a37a-5599e62bf08c] | User started new PVE game against Bot_Easy.
+[2025-11-08 02:02:40] [TYPE: SESSION_END] [User: Bayan666] [SID: gXffNAAzAP2CIkvfAAAH] | User disconnected. Session duration: 0:00:19
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-08 02:05:09] [TYPE: SESSION_START] [User: Bayan666] [SID: F6jYyqrznDt8SMifAAAB] | User 'Bayan666' authenticated and joined.
+[2025-11-08 02:05:14] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: F6jYyqrznDt8SMifAAAB] [GameID: 0dbeb38e-9fab-4ab6-b42b-7e43ceecc4de] | User started new PVE game against Bot_Easy.
+[2025-11-08 02:05:33] [TYPE: SESSION_END] [User: Bayan666] [SID: F6jYyqrznDt8SMifAAAB] | User disconnected. Session duration: 0:00:23
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-08 02:28:16] [TYPE: SESSION_END] [User: Unknown] [SID: vajf9GwYlIaBpYfGAAAB] | User disconnected. Session duration: N/A
+[2025-11-08 02:28:20] [TYPE: SESSION_START] [User: Bayan666] [SID: Sb_C3-sueDg995ADAAAD] | User 'Bayan666' authenticated and joined.
+[2025-11-08 02:28:21] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: Sb_C3-sueDg995ADAAAD] [GameID: 1437fab5-b790-48bd-8888-ec4d1a3d93a0] | User started new PVE game against Bot_Easy.
+[2025-11-08 02:28:38] [TYPE: SESSION_END] [User: Bayan666] [SID: Sb_C3-sueDg995ADAAAD] | User disconnected. Session duration: 0:00:17
+[2025-11-08 02:33:48] [TYPE: SESSION_START] [User: Bayan666] [SID: rVIYjCPIPKtHgsJBAAAF] | User 'Bayan666' authenticated and joined.
+[2025-11-08 02:33:52] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: rVIYjCPIPKtHgsJBAAAF] [GameID: 2358c275-0938-4e98-ad3b-fa647b6ff977] | User started new PVE game against Bot_Easy.
+[2025-11-08 02:34:19] [TYPE: SESSION_START] [User: Bayan666] [SID: fE8kYOuaxhL7rsPjAAAH] | User 'Bayan666' authenticated and joined.
+[2025-11-08 02:34:35] [TYPE: SESSION_END] [User: Bayan666] [SID: rVIYjCPIPKtHgsJBAAAF] | User disconnected. Session duration: 0:00:47
+[2025-11-08 02:34:36] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: fE8kYOuaxhL7rsPjAAAH] [GameID: 92bc60a0-1491-4598-9a97-729821f524aa] | User started new PVE game against Bot_Easy.
+[2025-11-08 02:34:48] [TYPE: SESSION_END] [User: Bayan666] [SID: fE8kYOuaxhL7rsPjAAAH] | User disconnected. Session duration: 0:00:29
+[2025-11-08 02:37:35] [TYPE: SESSION_START] [User: Bayan666] [SID: qZWqAgp8NoB5dnEAAAAJ] | User 'Bayan666' authenticated and joined.
+[2025-11-08 02:37:40] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: qZWqAgp8NoB5dnEAAAAJ] [GameID: 30a579f5-6a81-4ad6-b801-f7461712b56e] | User started new PVE game against Bot_Easy.
+[2025-11-08 02:39:10] [TYPE: SESSION_END] [User: Bayan666] [SID: qZWqAgp8NoB5dnEAAAAJ] | User disconnected. Session duration: 0:01:35
+[2025-11-08 02:42:07] [TYPE: SESSION_START] [User: Bayan666] [SID: ShQk-R-4AdDsl4gnAAAL] | User 'Bayan666' authenticated and joined.
+[2025-11-08 02:42:12] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: ShQk-R-4AdDsl4gnAAAL] [GameID: a0f0bf50-8d20-4e70-8bed-3ab6c905335f] | User started new PVE game against Bot_Easy.
+[2025-11-08 02:43:17] [TYPE: SESSION_END] [User: Bayan666] [SID: ShQk-R-4AdDsl4gnAAAL] | User disconnected. Session duration: 0:01:09
+[2025-11-08 02:44:37] [TYPE: SESSION_END] [User: Unknown] [SID: xgG6MPH2KXJj-bdGAAAN] | User disconnected. Session duration: N/A
+[2025-11-08 02:44:42] [TYPE: SESSION_START] [User: Bayan666] [SID: wfq5CVJ95_XlCJDbAAAP] | User 'Bayan666' authenticated and joined.
+[2025-11-08 02:44:43] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: wfq5CVJ95_XlCJDbAAAP] [GameID: 8f456092-2313-478c-907e-8b2ddaa613f4] | User started new PVE game against Bot_Easy.
+[2025-11-08 02:45:07] [TYPE: SESSION_END] [User: Bayan666] [SID: wfq5CVJ95_XlCJDbAAAP] | User disconnected. Session duration: 0:00:25
+[2025-11-08 02:47:03] [TYPE: SESSION_START] [User: Bayan666] [SID: SCt4KVSoC844feNuAAAR] | User 'Bayan666' authenticated and joined.
+[2025-11-08 02:47:07] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: SCt4KVSoC844feNuAAAR] [GameID: 830ec95d-c6d3-4c91-92a1-e8b9c1f9b584] | User started new PVE game against Bot_Easy.
+[2025-11-08 02:47:32] [TYPE: SESSION_END] [User: Bayan666] [SID: SCt4KVSoC844feNuAAAR] | User disconnected. Session duration: 0:00:28
+[2025-11-08 02:49:48] [TYPE: SESSION_START] [User: Bayan666] [SID: xRR0IcPlePEcWJfEAAAT] | User 'Bayan666' authenticated and joined.
+[2025-11-08 02:49:50] [TYPE: SESSION_END] [User: Bayan666] [SID: xRR0IcPlePEcWJfEAAAT] | User disconnected. Session duration: 0:00:02
+[2025-11-08 02:50:03] [TYPE: SESSION_START] [User: Bayan666] [SID: biUsEUTNfwZSLxjCAAAV] | User 'Bayan666' authenticated and joined.
+[2025-11-08 02:50:07] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: biUsEUTNfwZSLxjCAAAV] [GameID: f1eedf3b-99df-466c-9dfa-2651d267d105] | User started new PVE game against Bot_Easy.
+[2025-11-08 02:51:16] [TYPE: SESSION_END] [User: Bayan666] [SID: biUsEUTNfwZSLxjCAAAV] | User disconnected. Session duration: 0:01:12
+[2025-11-08 02:54:26] [TYPE: SESSION_START] [User: Bayan666] [SID: VWx4R4Ahun3IFzypAAAX] | User 'Bayan666' authenticated and joined.
+[2025-11-08 02:54:30] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: VWx4R4Ahun3IFzypAAAX] [GameID: 557881d6-8416-44a0-88a2-ef542f084a56] | User started new PVE game against Bot_Easy.
+[2025-11-08 02:55:15] [TYPE: SESSION_END] [User: Bayan666] [SID: VWx4R4Ahun3IFzypAAAX] | User disconnected. Session duration: 0:00:49
+[2025-11-08 03:01:17] [TYPE: SESSION_END] [User: Unknown] [SID: mLjL32p3e9XX1VS1AAAZ] | User disconnected. Session duration: N/A
+[2025-11-08 03:01:21] [TYPE: SESSION_START] [User: Bayan666] [SID: Mpx_3_gjUYgmkOeBAAAb] | User 'Bayan666' authenticated and joined.
+[2025-11-08 03:01:23] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: Mpx_3_gjUYgmkOeBAAAb] [GameID: 05d49304-8625-40d9-b292-6cfa1c9076cc] | User started new PVE game against Bot_Easy.
+[2025-11-08 03:02:16] [TYPE: SESSION_END] [User: Bayan666] [SID: Mpx_3_gjUYgmkOeBAAAb] | User disconnected. Session duration: 0:00:55
+[2025-11-08 03:04:37] [TYPE: SESSION_START] [User: Bayan666] [SID: Ym8Flijx3_gdzM8JAAAd] | User 'Bayan666' authenticated and joined.
+[2025-11-08 03:04:41] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: Ym8Flijx3_gdzM8JAAAd] [GameID: 728b1059-9cb2-401e-be4e-5dc6a017a357] | User started new PVE game against Bot_Easy.
+[2025-11-08 03:05:50] [TYPE: SESSION_END] [User: Bayan666] [SID: Ym8Flijx3_gdzM8JAAAd] | User disconnected. Session duration: 0:01:12
+[2025-11-08 03:15:49] [TYPE: SESSION_START] [User: Bayan666] [SID: 9nHuNSE03UcyKqTGAAAf] | User 'Bayan666' authenticated and joined.
+[2025-11-08 03:16:07] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: 9nHuNSE03UcyKqTGAAAf] [GameID: 0daaf055-c88b-493d-a3aa-03c4d7bc5e11] | User started new PVE game against Bot_Easy.
+[2025-11-08 03:16:37] [TYPE: SESSION_END] [User: Bayan666] [SID: 9nHuNSE03UcyKqTGAAAf] | User disconnected. Session duration: 0:00:47
+[2025-11-08 03:20:09] [TYPE: SESSION_END] [User: Unknown] [SID: VcVZZt-Sea-nwTVTAAAh] | User disconnected. Session duration: N/A
+[2025-11-08 03:20:14] [TYPE: SESSION_START] [User: Bayan666] [SID: HZPpxbE_6jfl-QILAAAj] | User 'Bayan666' authenticated and joined.
+[2025-11-08 03:20:15] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: HZPpxbE_6jfl-QILAAAj] [GameID: 6a36327c-3494-406b-88cf-1778f58cb437] | User started new PVE game against Bot_Easy.
+[2025-11-08 03:21:49] [TYPE: SESSION_END] [User: Bayan666] [SID: HZPpxbE_6jfl-QILAAAj] | User disconnected. Session duration: 0:01:35
+[2025-11-08 04:57:19] [TYPE: SESSION_END] [User: Unknown] [SID: _QoGb9Qiku8VwxGDAAAl] | User disconnected. Session duration: N/A
+[2025-11-08 04:57:25] [TYPE: SESSION_START] [User: Bayan666] [SID: Kin4cvZwO-caGckdAAAn] | User 'Bayan666' authenticated and joined.
+[2025-11-08 04:57:27] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: Kin4cvZwO-caGckdAAAn] [GameID: c43c1f53-3791-4915-bf56-950f62b6ccbd] | User started new PVE game against Bot_Easy.
+[2025-11-08 04:58:22] [TYPE: SESSION_END] [User: Bayan666] [SID: Kin4cvZwO-caGckdAAAn] | User disconnected. Session duration: 0:00:56
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-08 06:37:49] [TYPE: SESSION_END] [User: Unknown] [SID: sFWlOGLZGXkmcJ_xAAAB] | User disconnected. Session duration: N/A
+[2025-11-08 06:37:54] [TYPE: SESSION_START] [User: Bayan666] [SID: _h-bCSidR2pWHYPZAAAD] | User 'Bayan666' authenticated and joined.
+[2025-11-08 06:37:57] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: _h-bCSidR2pWHYPZAAAD] [GameID: 9f028cf5-b305-438a-95c7-e9dc50745ef3] | User started new PVE game against Bot_Easy.
+[2025-11-08 06:38:49] [TYPE: SESSION_END] [User: Bayan666] [SID: _h-bCSidR2pWHYPZAAAD] | User disconnected. Session duration: 0:00:54
+[2025-11-08 06:50:58] [TYPE: SESSION_START] [User: Bayan666] [SID: H50rRPk7n61Hh-wAAAAF] | User 'Bayan666' authenticated and joined.
+[2025-11-08 06:51:01] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: H50rRPk7n61Hh-wAAAAF] [GameID: f89b12da-a66d-4957-9a47-9a28a1685060] | User started new PVE game against Bot_Easy.
+[2025-11-08 06:52:09] [TYPE: SESSION_END] [User: Bayan666] [SID: H50rRPk7n61Hh-wAAAAF] | User disconnected. Session duration: 0:01:11
+[2025-11-08 06:53:52] [TYPE: SESSION_END] [User: Unknown] [SID: 7_NytAJlupRGxyToAAAH] | User disconnected. Session duration: N/A
+[2025-11-08 06:53:57] [TYPE: SESSION_START] [User: Bayan666] [SID: IAJqEpoHutLr3obFAAAJ] | User 'Bayan666' authenticated and joined.
+[2025-11-08 06:53:59] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: IAJqEpoHutLr3obFAAAJ] [GameID: e17b4673-fc8c-497e-957c-6c822dbe2163] | User started new PVE game against Bot_Easy.
+[2025-11-08 06:55:32] [TYPE: SESSION_END] [User: Bayan666] [SID: IAJqEpoHutLr3obFAAAJ] | User disconnected. Session duration: 0:01:35
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-08 07:46:21] [TYPE: SESSION_END] [User: Unknown] [SID: WJ3s2xAaQaMVxuOMAAAB] | User disconnected. Session duration: N/A
+[2025-11-08 07:46:26] [TYPE: SESSION_START] [User: Bayan666] [SID: b9z85P1-lb9GHuwRAAAD] | User 'Bayan666' authenticated and joined.
+[2025-11-08 07:46:29] [TYPE: GAME_CREATE_PVE] [User: Bayan666] [SID: b9z85P1-lb9GHuwRAAAD] [GameID: de5dcf9f-22c7-4dd1-bec0-7ff1fac29667] | User started new PVE game against Bot_Easy.
+[2025-11-08 07:46:56] [TYPE: SESSION_END] [User: Bayan666] [SID: b9z85P1-lb9GHuwRAAAD] | User disconnected. Session duration: 0:00:29
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-08 09:26:25] [TYPE: SESSION_END] [User: Unknown] [SID: LRJ0Y3ZsGlmPFLK8AAAB] | User disconnected. Session duration: N/A
+[2025-11-08 09:27:10] [TYPE: SESSION_START] [User: Babayan] [SID: Te2sweG3dQp1cqaZAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-08 09:27:13] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: Te2sweG3dQp1cqaZAAAD] [GameID: 65f9a3a5-e856-4913-bdd6-9be70a595836] | User started new PVE game against Bot_Easy.
+[2025-11-08 09:28:53] [TYPE: SESSION_END] [User: Babayan] [SID: Te2sweG3dQp1cqaZAAAD] | User disconnected. Session duration: 0:01:43
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-08 09:29:58] [TYPE: SESSION_START] [User: Babayan] [SID: ftX1VN6HT6UU4g9QAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-08 09:30:04] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: ftX1VN6HT6UU4g9QAAAB] [GameID: c6473ede-1bb7-4e78-a6c3-ed308531523e] | User started new PVE game against Bot_Easy.
+[2025-11-08 09:30:22] [TYPE: SESSION_END] [User: Babayan] [SID: ftX1VN6HT6UU4g9QAAAB] | User disconnected. Session duration: 0:00:23
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-08 09:31:25] [TYPE: SESSION_START] [User: Babayan] [SID: u7lAeU3XSms7_ZZ3AAAB] | User 'Babayan' authenticated and joined.
+[2025-11-08 09:31:29] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: u7lAeU3XSms7_ZZ3AAAB] [GameID: f7b6415d-f7d3-45c5-86fe-bbc967c9604c] | User started new PVE game against Bot_Easy.
+[2025-11-08 09:31:49] [TYPE: SESSION_END] [User: Babayan] [SID: u7lAeU3XSms7_ZZ3AAAB] | User disconnected. Session duration: 0:00:23
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-08 09:59:55] [TYPE: SESSION_END] [User: Unknown] [SID: MAhIMoX0PKDNeoTpAAAB] | User disconnected. Session duration: N/A
+[2025-11-08 10:00:14] [TYPE: SESSION_START] [User: Babayan] [SID: sEYtK3EdZSaGN3OqAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-08 10:00:17] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: sEYtK3EdZSaGN3OqAAAD] [GameID: 2a6112c3-3672-46a3-b074-5d0b7e93d111] | User started new PVE game against Bot_Easy.
+[2025-11-08 10:01:55] [TYPE: SESSION_END] [User: Babayan] [SID: sEYtK3EdZSaGN3OqAAAD] | User disconnected. Session duration: 0:01:41
+[2025-11-08 10:18:09] [TYPE: SESSION_END] [User: Unknown] [SID: edo6YYfR3WDb0cl1AAAF] | User disconnected. Session duration: N/A
+[2025-11-08 10:19:13] [TYPE: SESSION_END] [User: Unknown] [SID: sLmcRNi7MZxVTOQ_AAAH] | User disconnected. Session duration: N/A
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-08 10:24:29] [TYPE: SESSION_START] [User: Babayan] [SID: VjJZ3i-60SpRqDhiAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-08 10:24:32] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: VjJZ3i-60SpRqDhiAAAB] [GameID: ad01bf5f-a5e3-4ad5-b708-f822eecf192a] | User started new PVE game against Bot_Easy.
+[2025-11-08 10:24:55] [TYPE: SESSION_END] [User: Babayan] [SID: VjJZ3i-60SpRqDhiAAAB] | User disconnected. Session duration: 0:00:26
+[2025-11-08 10:33:09] [TYPE: SESSION_START] [User: Babayan] [SID: MF3ezqKfl9hwMy9VAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-08 10:33:14] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: MF3ezqKfl9hwMy9VAAAD] [GameID: 0e3ce2ee-9fbb-4030-b50b-e495bcf74858] | User started new PVE game against Bot_Easy.
+[2025-11-08 10:35:09] [TYPE: SESSION_END] [User: Babayan] [SID: MF3ezqKfl9hwMy9VAAAD] | User disconnected. Session duration: 0:02:00
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-08 10:53:35] [TYPE: SESSION_END] [User: Unknown] [SID: KY9JWUruJBOAY9HRAAAB] | User disconnected. Session duration: N/A
+[2025-11-08 10:53:45] [TYPE: SESSION_START] [User: Babayan] [SID: b7CElagaXUnWgd8iAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-08 10:53:46] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: b7CElagaXUnWgd8iAAAD] [GameID: 0b9058d7-c06b-4b46-920b-615c8848d109] | User started new PVE game against Bot_Easy.
+[2025-11-08 10:54:55] [TYPE: SESSION_END] [User: Babayan] [SID: b7CElagaXUnWgd8iAAAD] | User disconnected. Session duration: 0:01:09
+[2025-11-08 11:42:21] [TYPE: SESSION_END] [User: Unknown] [SID: KTTKF6kFCJJv7enuAAAF] | User disconnected. Session duration: N/A
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-08 15:58:12] [TYPE: SESSION_END] [User: Unknown] [SID: ptfhXa_z3OpLnwVRAAAB] | User disconnected. Session duration: N/A
+[2025-11-08 15:58:24] [TYPE: SESSION_START] [User: Babayan] [SID: G-0zfY5MFAxf_igAAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-08 15:58:26] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: G-0zfY5MFAxf_igAAAAD] [GameID: 57c4637f-9744-4fb7-a56f-720833987e66] | User started new PVE game against Bot_Easy.
+[2025-11-08 15:59:39] [TYPE: SESSION_END] [User: Babayan] [SID: G-0zfY5MFAxf_igAAAAD] | User disconnected. Session duration: 0:01:14
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-08 16:23:13] [TYPE: SESSION_END] [User: Unknown] [SID: C8Uo-RaVUfUf8c2sAAAB] | User disconnected. Session duration: N/A
+[2025-11-08 16:23:25] [TYPE: SESSION_START] [User: Babayan] [SID: Gqqc4tqQgA5V3VDDAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-08 16:23:29] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: Gqqc4tqQgA5V3VDDAAAD] [GameID: 1439fc9c-7a97-49cf-b3b4-9d0a50c142b2] | User started new PVE game against Bot_Easy.
+[2025-11-08 16:24:40] [TYPE: SESSION_END] [User: Babayan] [SID: Gqqc4tqQgA5V3VDDAAAD] | User disconnected. Session duration: 0:01:14
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-08 16:25:10] [TYPE: SESSION_START] [User: Babayan] [SID: QXhgDVt_COMrkK7FAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-08 16:25:15] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: QXhgDVt_COMrkK7FAAAB] [GameID: 929bf077-4443-489f-8643-0049a467b769] | User started new PVE game against Bot_Easy.
+[2025-11-08 16:25:31] [TYPE: SESSION_END] [User: Babayan] [SID: QXhgDVt_COMrkK7FAAAB] | User disconnected. Session duration: 0:00:21
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-08 16:26:14] [TYPE: SESSION_START] [User: Babayan] [SID: EFVYmKSenzN0pGsTAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-08 16:26:17] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: EFVYmKSenzN0pGsTAAAB] [GameID: 78ea4b79-adb4-4249-acb4-419b7dabfe8a] | User started new PVE game against Bot_Easy.
+[2025-11-08 16:26:31] [TYPE: SESSION_END] [User: Babayan] [SID: EFVYmKSenzN0pGsTAAAB] | User disconnected. Session duration: 0:00:17
+[2025-11-08 16:26:42] [TYPE: GAME_REJOIN_AUTO] [User: Babayan] [SID: 38YwjJVjAOsm_8ZSAAAD] [GameID: 78ea4b79-adb4-4249-acb4-419b7dabfe8a] | User auto-rejoined game. Role: pve
+[2025-11-08 16:26:51] [TYPE: SESSION_END] [User: Babayan] [SID: 38YwjJVjAOsm_8ZSAAAD] | User disconnected. Session duration: 0:00:09
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-08 16:27:08] [TYPE: SESSION_START] [User: Babayan] [SID: -MyFP8yonyojARXqAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-08 16:27:12] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: -MyFP8yonyojARXqAAAB] [GameID: eed61a09-575b-4d2e-a12b-94e92efb4f70] | User started new PVE game against Bot_Easy.
+[2025-11-08 16:28:05] [TYPE: SESSION_END] [User: Babayan] [SID: -MyFP8yonyojARXqAAAB] | User disconnected. Session duration: 0:00:57
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-08 16:30:37] [TYPE: SESSION_START] [User: Babayan] [SID: KNEw-Mcml_-WSFKdAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-08 16:30:40] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: KNEw-Mcml_-WSFKdAAAB] [GameID: 930d1709-8753-4527-8670-635ea23421ee] | User started new PVE game against Bot_Easy.
+[2025-11-08 16:32:51] [TYPE: SESSION_END] [User: Babayan] [SID: KNEw-Mcml_-WSFKdAAAB] | User disconnected. Session duration: 0:02:14
+[2025-11-08 16:40:49] [TYPE: SESSION_END] [User: Unknown] [SID: kNsV74DQ442jjB4zAAAD] | User disconnected. Session duration: N/A
+[2025-11-08 16:41:02] [TYPE: SESSION_START] [User: Babayan] [SID: H-R8oI3XEHsBfpKdAAAF] | User 'Babayan' authenticated and joined.
+[2025-11-08 16:41:04] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: H-R8oI3XEHsBfpKdAAAF] [GameID: 359ad454-568f-48ad-85c0-203fcb366448] | User started new PVE game against Bot_Easy.
+[2025-11-08 16:41:27] [TYPE: SESSION_END] [User: Babayan] [SID: H-R8oI3XEHsBfpKdAAAF] | User disconnected. Session duration: 0:00:25
+[2025-11-08 16:42:07] [TYPE: GAME_REJOIN_AUTO] [User: Babayan] [SID: p0kT5xddfEgqUAFlAAAH] [GameID: 359ad454-568f-48ad-85c0-203fcb366448] | User auto-rejoined game. Role: pve
+[2025-11-08 16:42:12] [TYPE: SESSION_END] [User: Babayan] [SID: p0kT5xddfEgqUAFlAAAH] | User disconnected. Session duration: 0:00:05
+[2025-11-08 16:43:26] [TYPE: SESSION_START] [User: Babayan] [SID: dtWxj9TE0XOgSz48AAAJ] | User 'Babayan' authenticated and joined.
+[2025-11-08 16:43:57] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: dtWxj9TE0XOgSz48AAAJ] [GameID: 6773e5e7-58ee-4cb8-8c90-bdabb60652e4] | User started new PVE game against Bot_Easy.
+[2025-11-08 16:45:26] [TYPE: SESSION_END] [User: Babayan] [SID: dtWxj9TE0XOgSz48AAAJ] | User disconnected. Session duration: 0:02:00
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 15:25:01] [TYPE: SESSION_END] [User: Unknown] [SID: YYbfoZatJIw-I4m4AAAB] | User disconnected. Session duration: N/A
+[2025-11-09 15:25:10] [TYPE: SESSION_START] [User: Babayan] [SID: HC8ufeJ5bUfSE8uvAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-09 15:25:12] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: HC8ufeJ5bUfSE8uvAAAD] [GameID: 1361f0a6-499a-4284-bea6-dd670a5a82cf] | User started new PVE game against Bot_Easy.
+[2025-11-09 15:25:37] [TYPE: SESSION_END] [User: Babayan] [SID: HC8ufeJ5bUfSE8uvAAAD] | User disconnected. Session duration: 0:00:27
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 15:47:41] [TYPE: SESSION_END] [User: Unknown] [SID: 9chGw2jybA99lcUbAAAB] | User disconnected. Session duration: N/A
+[2025-11-09 15:47:54] [TYPE: SESSION_START] [User: Babayan] [SID: TPBorjbcvkr4ndqTAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-09 15:47:57] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: TPBorjbcvkr4ndqTAAAD] [GameID: 29c6ed10-2ae9-44bf-b5ff-dfcbb6f65cf7] | User started new PVE game against Bot_Easy.
+[2025-11-09 15:49:39] [TYPE: SESSION_END] [User: Babayan] [SID: TPBorjbcvkr4ndqTAAAD] | User disconnected. Session duration: 0:01:44
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 15:51:43] [TYPE: SESSION_START] [User: Babayan] [SID: Py-cQ3sMDr2Kb43gAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-09 15:51:46] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: Py-cQ3sMDr2Kb43gAAAB] [GameID: 0a9da034-dd50-4200-8107-c782b57675c4] | User started new PVE game against Bot_Easy.
+[2025-11-09 15:53:58] [TYPE: SESSION_END] [User: Babayan] [SID: Py-cQ3sMDr2Kb43gAAAB] | User disconnected. Session duration: 0:02:14
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 15:56:36] [TYPE: SESSION_START] [User: Babayan] [SID: wiJ8URk-3CPfolZrAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-09 15:56:40] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: wiJ8URk-3CPfolZrAAAB] [GameID: 3b424bec-49e6-4076-a0a2-80a99241c9fb] | User started new PVE game against Bot_Easy.
+[2025-11-09 15:57:35] [TYPE: SESSION_END] [User: Babayan] [SID: wiJ8URk-3CPfolZrAAAB] | User disconnected. Session duration: 0:00:58
+[2025-11-09 15:57:35] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: wiJ8URk-3CPfolZrAAAB] [GameID: 3b424bec-49e6-4076-a0a2-80a99241c9fb] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 16:00:33] [TYPE: SESSION_START] [User: Babayan] [SID: NEXsq-Ywfj3VArf-AAAB] | User 'Babayan' authenticated and joined.
+[2025-11-09 16:00:36] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: NEXsq-Ywfj3VArf-AAAB] [GameID: 3a87b016-ab4a-4c07-b6d2-aed0012584d1] | User started new PVE game against Bot_Easy.
+[2025-11-09 16:01:29] [TYPE: SESSION_END] [User: Babayan] [SID: NEXsq-Ywfj3VArf-AAAB] | User disconnected. Session duration: 0:00:55
+[2025-11-09 16:01:29] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: NEXsq-Ywfj3VArf-AAAB] [GameID: 3a87b016-ab4a-4c07-b6d2-aed0012584d1] | Player disconnected from game.
+[2025-11-09 16:01:30] [TYPE: GAME_REJOIN_AUTO] [User: Babayan] [SID: IcvSlw1XbFZH2pSiAAAD] [GameID: 3a87b016-ab4a-4c07-b6d2-aed0012584d1] | User auto-rejoined game. Role: pve
+[2025-11-09 16:01:47] [TYPE: SESSION_END] [User: Babayan] [SID: IcvSlw1XbFZH2pSiAAAD] | User disconnected. Session duration: 0:00:16
+[2025-11-09 16:01:47] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: IcvSlw1XbFZH2pSiAAAD] [GameID: 3a87b016-ab4a-4c07-b6d2-aed0012584d1] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 16:11:05] [TYPE: SESSION_END] [User: Unknown] [SID: jv0Yu5oLJ6M6KLztAAAB] | User disconnected. Session duration: N/A
+[2025-11-09 16:11:15] [TYPE: SESSION_START] [User: Babayan] [SID: E-_wWlwe-354ggREAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-09 16:11:17] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: E-_wWlwe-354ggREAAAD] [GameID: 1bd406ec-44b5-401d-8e94-64c6ebb9bb9a] | User started new PVE game against Bot_Easy.
+[2025-11-09 16:12:04] [TYPE: SESSION_END] [User: Babayan] [SID: E-_wWlwe-354ggREAAAD] | User disconnected. Session duration: 0:00:49
+[2025-11-09 16:12:04] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: E-_wWlwe-354ggREAAAD] [GameID: 1bd406ec-44b5-401d-8e94-64c6ebb9bb9a] | Player disconnected from game.
+[2025-11-09 16:19:03] [TYPE: SESSION_START] [User: Babayan] [SID: bAhCe7V82rHjVBkPAAAF] | User 'Babayan' authenticated and joined.
+[2025-11-09 16:19:06] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: bAhCe7V82rHjVBkPAAAF] [GameID: 73df49e1-252a-45d9-8c5c-d317e784b387] | User started new PVE game against Bot_Easy.
+[2025-11-09 16:19:52] [TYPE: SESSION_END] [User: Babayan] [SID: bAhCe7V82rHjVBkPAAAF] | User disconnected. Session duration: 0:00:48
+[2025-11-09 16:19:52] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: bAhCe7V82rHjVBkPAAAF] [GameID: 73df49e1-252a-45d9-8c5c-d317e784b387] | Player disconnected from game.
+[2025-11-09 16:19:52] [TYPE: GAME_REJOIN_AUTO] [User: Babayan] [SID: -6uZNRRvBEmY_seGAAAH] [GameID: 73df49e1-252a-45d9-8c5c-d317e784b387] | User auto-rejoined game. Role: pve
+[2025-11-09 16:20:41] [TYPE: SESSION_END] [User: Babayan] [SID: -6uZNRRvBEmY_seGAAAH] | User disconnected. Session duration: 0:00:48
+[2025-11-09 16:20:41] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: -6uZNRRvBEmY_seGAAAH] [GameID: 73df49e1-252a-45d9-8c5c-d317e784b387] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 16:24:22] [TYPE: SESSION_START] [User: Babayan] [SID: LBtpyigGmyiFheajAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-09 16:24:27] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: LBtpyigGmyiFheajAAAB] [GameID: f416250d-b18b-42b2-bdfe-8228292ce4ff] | User started new PVE game against Bot_Easy.
+[2025-11-09 16:25:32] [TYPE: SESSION_END] [User: Babayan] [SID: LBtpyigGmyiFheajAAAB] | User disconnected. Session duration: 0:01:10
+[2025-11-09 16:25:32] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: LBtpyigGmyiFheajAAAB] [GameID: f416250d-b18b-42b2-bdfe-8228292ce4ff] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 16:34:58] [TYPE: SESSION_END] [User: Unknown] [SID: CHqJdcIIciEyy8C2AAAB] | User disconnected. Session duration: N/A
+[2025-11-09 16:35:07] [TYPE: SESSION_START] [User: Babayan] [SID: A-MFGkLdTHJ7NVtfAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-09 16:35:08] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: A-MFGkLdTHJ7NVtfAAAD] [GameID: 62e3cfd6-60fb-4819-ab3c-98f440a244e4] | User started new PVE game against Bot_Easy.
+[2025-11-09 16:36:52] [TYPE: SESSION_END] [User: Babayan] [SID: A-MFGkLdTHJ7NVtfAAAD] | User disconnected. Session duration: 0:01:44
+[2025-11-09 16:36:52] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: A-MFGkLdTHJ7NVtfAAAD] [GameID: 62e3cfd6-60fb-4819-ab3c-98f440a244e4] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 16:50:21] [TYPE: SESSION_END] [User: Unknown] [SID: 4TK6nx4WJSsFHkVYAAAB] | User disconnected. Session duration: N/A
+[2025-11-09 16:50:40] [TYPE: SESSION_START] [User: Babayan] [SID: NZyfLLOh_r8RfJ5_AAAD] | User 'Babayan' authenticated and joined.
+[2025-11-09 16:50:42] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: NZyfLLOh_r8RfJ5_AAAD] [GameID: 503ce5b2-9529-4e99-8b00-2a4b6f279676] | User started new PVE game against Bot_Easy.
+[2025-11-09 16:51:35] [TYPE: SESSION_END] [User: Babayan] [SID: NZyfLLOh_r8RfJ5_AAAD] | User disconnected. Session duration: 0:00:54
+[2025-11-09 16:51:35] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: NZyfLLOh_r8RfJ5_AAAD] [GameID: 503ce5b2-9529-4e99-8b00-2a4b6f279676] | Player disconnected from game.
+[2025-11-09 16:51:37] [TYPE: GAME_REJOIN_AUTO] [User: Babayan] [SID: 3dKVqPDFZq-mJDtTAAAF] [GameID: 503ce5b2-9529-4e99-8b00-2a4b6f279676] | User auto-rejoined game. Role: pve
+[2025-11-09 16:54:02] [TYPE: SESSION_END] [User: Babayan] [SID: 3dKVqPDFZq-mJDtTAAAF] | User disconnected. Session duration: 0:02:25
+[2025-11-09 16:54:02] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: 3dKVqPDFZq-mJDtTAAAF] [GameID: 503ce5b2-9529-4e99-8b00-2a4b6f279676] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 17:03:36] [TYPE: SESSION_START] [User: Babayan] [SID: 8V8PBrZXFHmIjNDIAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-09 17:03:40] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: 8V8PBrZXFHmIjNDIAAAB] [GameID: 658a07e1-e449-497b-8707-d5935d04f92f] | User started new PVE game against Bot_Easy.
+[2025-11-09 17:03:55] [TYPE: SESSION_END] [User: Babayan] [SID: 8V8PBrZXFHmIjNDIAAAB] | User disconnected. Session duration: 0:00:18
+[2025-11-09 17:03:55] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: 8V8PBrZXFHmIjNDIAAAB] [GameID: 658a07e1-e449-497b-8707-d5935d04f92f] | Player disconnected from game.
+[2025-11-09 17:04:05] [TYPE: GAME_REJOIN_AUTO] [User: Babayan] [SID: 5mWWG2XXWATWdkzIAAAD] [GameID: 658a07e1-e449-497b-8707-d5935d04f92f] | User auto-rejoined game. Role: pve
+[2025-11-09 17:04:20] [TYPE: SESSION_END] [User: Babayan] [SID: 5mWWG2XXWATWdkzIAAAD] | User disconnected. Session duration: 0:00:15
+[2025-11-09 17:04:20] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: 5mWWG2XXWATWdkzIAAAD] [GameID: 658a07e1-e449-497b-8707-d5935d04f92f] | Player disconnected from game.
+[2025-11-09 17:08:24] [TYPE: SESSION_END] [User: Unknown] [SID: YQr4mc2pzrEdvU_DAAAF] | User disconnected. Session duration: N/A
+[2025-11-09 17:09:10] [TYPE: SESSION_START] [User: Babayan] [SID: Qo47uw8Uydjmri2oAAAH] | User 'Babayan' authenticated and joined.
+[2025-11-09 17:09:12] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: Qo47uw8Uydjmri2oAAAH] [GameID: f8027daf-41e2-4bea-932a-4e865c264e08] | User started new PVE game against Bot_Easy.
+[2025-11-09 17:09:56] [TYPE: SESSION_END] [User: Babayan] [SID: Qo47uw8Uydjmri2oAAAH] | User disconnected. Session duration: 0:00:45
+[2025-11-09 17:09:56] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: Qo47uw8Uydjmri2oAAAH] [GameID: f8027daf-41e2-4bea-932a-4e865c264e08] | Player disconnected from game.
+[2025-11-09 17:09:58] [TYPE: GAME_REJOIN_AUTO] [User: Babayan] [SID: cSnV3asG8x_Ec5IoAAAJ] [GameID: f8027daf-41e2-4bea-932a-4e865c264e08] | User auto-rejoined game. Role: pve
+[2025-11-09 17:10:25] [TYPE: SESSION_END] [User: Babayan] [SID: cSnV3asG8x_Ec5IoAAAJ] | User disconnected. Session duration: 0:00:27
+[2025-11-09 17:10:25] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: cSnV3asG8x_Ec5IoAAAJ] [GameID: f8027daf-41e2-4bea-932a-4e865c264e08] | Player disconnected from game.
+[2025-11-09 17:14:34] [TYPE: SESSION_START] [User: Babayan] [SID: oMu3irAW0UHGI5n_AAAL] | User 'Babayan' authenticated and joined.
+[2025-11-09 17:14:38] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: oMu3irAW0UHGI5n_AAAL] [GameID: ff7c61ef-f27b-432b-a918-2c08d90809fb] | User started new PVE game against Bot_Easy.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 20:04:12] [TYPE: SESSION_END] [User: Unknown] [SID: z7ARJWspVtN85mYKAAAB] | User disconnected. Session duration: N/A
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 20:15:30] [TYPE: SESSION_END] [User: Unknown] [SID: g4YZ5IthnI3H4gR_AAAB] | User disconnected. Session duration: N/A
+[2025-11-09 20:15:38] [TYPE: SESSION_END] [User: Unknown] [SID: mfL5XkXNmQ5cRkr0AAAD] | User disconnected. Session duration: N/A
+[2025-11-09 20:15:54] [TYPE: SESSION_END] [User: Unknown] [SID: uq1fljNTdzXSvReiAAAF] | User disconnected. Session duration: N/A
+[2025-11-09 20:20:24] [TYPE: SESSION_END] [User: Unknown] [SID: AEuMQqBN7T7ylvsAAAAH] | User disconnected. Session duration: N/A
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 20:23:21] [TYPE: SESSION_END] [User: Unknown] [SID: TWgOXg0-zM6rsQefAAAB] | User disconnected. Session duration: N/A
+[2025-11-09 20:24:06] [TYPE: SESSION_START] [User: Babayan] [SID: VoOiDJdfsTmrHeWwAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-09 20:25:08] [TYPE: SESSION_INIT] [User: Unknown] [GameID: c9fc7d75-2d5e-4fd0-b7e3-0890e50d0586] | Экземпляр сессии c9fc7d75-2d5e-4fd0-b7e3-0890e50d0586 (Фасад) создан.
+[2025-11-09 20:25:08] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: c9fc7d75-2d5e-4fd0-b7e3-0890e50d0586] | Сессия c9fc7d75-2d5e-4fd0-b7e3-0890e50d0586 настроена для PVE.
+[2025-11-09 20:25:08] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: VoOiDJdfsTmrHeWwAAAD] [GameID: c9fc7d75-2d5e-4fd0-b7e3-0890e50d0586] | User started new PVE game against Bot_Easy.
+(ThreadPoolExecutor-0_0) Не найден 'app' в GameSession. Выполняем callback без app_context.
+[2025-11-09 20:26:20] [TYPE: SESSION_END] [User: Babayan] [SID: VoOiDJdfsTmrHeWwAAAD] | User disconnected. Session duration: 0:02:14
+[2025-11-09 20:26:20] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: VoOiDJdfsTmrHeWwAAAD] [GameID: c9fc7d75-2d5e-4fd0-b7e3-0890e50d0586] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 20:35:51] [TYPE: SESSION_START] [User: Babayan] [SID: XDMkV3HQnySd7uCgAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-09 20:35:55] [TYPE: SESSION_INIT] [User: Unknown] [GameID: f7f72922-3b81-4e77-ae2b-ef2a272d2097] | Экземпляр сессии f7f72922-3b81-4e77-ae2b-ef2a272d2097 (Фасад) создан.
+[2025-11-09 20:35:55] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: f7f72922-3b81-4e77-ae2b-ef2a272d2097] | Сессия f7f72922-3b81-4e77-ae2b-ef2a272d2097 настроена для PVE.
+[2025-11-09 20:35:55] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: XDMkV3HQnySd7uCgAAAB] [GameID: f7f72922-3b81-4e77-ae2b-ef2a272d2097] | User started new PVE game against Bot_Easy.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 20:39:20] [TYPE: SESSION_START] [User: Babayan] [SID: u6mhULXYcAVXf97GAAAB] | User 'Babayan' authenticated and joined.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 20:41:58] [TYPE: SESSION_START] [User: Babayan] [SID: uwxTwsTlqCtNrUf_AAAB] | User 'Babayan' authenticated and joined.
+[2025-11-09 20:43:19] [TYPE: SESSION_END] [User: Babayan] [SID: uwxTwsTlqCtNrUf_AAAB] | User disconnected. Session duration: 0:01:20
+[2025-11-09 20:43:38] [TYPE: SESSION_START] [User: Babayan] [SID: J77CUkW5VTuAMJGhAAAD] | User 'Babayan' authenticated and joined.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 21:10:23] [TYPE: SESSION_START] [User: Babayan] [SID: SAoh3bq2vN-6rjMfAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-09 21:10:40] [TYPE: SESSION_INIT] [User: Unknown] [GameID: d2268b0d-0d8c-4b16-93d4-083fb9ea5873] | Экземпляр сессии d2268b0d-0d8c-4b16-93d4-083fb9ea5873 (Фасад) создан.
+[2025-11-09 21:10:40] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: d2268b0d-0d8c-4b16-93d4-083fb9ea5873] | Сессия d2268b0d-0d8c-4b16-93d4-083fb9ea5873 настроена для PVE.
+[2025-11-09 21:10:40] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: SAoh3bq2vN-6rjMfAAAB] [GameID: d2268b0d-0d8c-4b16-93d4-083fb9ea5873] | User started new PVE game against Bot_Easy.
+[2025-11-09 21:12:03] [TYPE: SESSION_END] [User: Babayan] [SID: SAoh3bq2vN-6rjMfAAAB] | User disconnected. Session duration: 0:01:39
+[2025-11-09 21:12:03] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: SAoh3bq2vN-6rjMfAAAB] [GameID: d2268b0d-0d8c-4b16-93d4-083fb9ea5873] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 21:18:25] [TYPE: SESSION_START] [User: Babayan] [SID: yhYyWDI9U4oXbfwhAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-09 21:18:29] [TYPE: SESSION_INIT] [User: Unknown] [GameID: cfb9bc7b-93a9-4a3e-af3f-1d329e899cde] | Экземпляр сессии cfb9bc7b-93a9-4a3e-af3f-1d329e899cde (Фасад) создан.
+[2025-11-09 21:18:29] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: cfb9bc7b-93a9-4a3e-af3f-1d329e899cde] | Сессия cfb9bc7b-93a9-4a3e-af3f-1d329e899cde настроена для PVE.
+[2025-11-09 21:18:29] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: yhYyWDI9U4oXbfwhAAAB] [GameID: cfb9bc7b-93a9-4a3e-af3f-1d329e899cde] | User started new PVE game against Bot_Easy.
+(ThreadPoolExecutor-0_0) Не найден 'app' в GameSession. Выполняем callback без app_context.
+[2025-11-09 21:19:40] [TYPE: SESSION_END] [User: Babayan] [SID: yhYyWDI9U4oXbfwhAAAB] | User disconnected. Session duration: 0:01:14
+[2025-11-09 21:19:40] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: yhYyWDI9U4oXbfwhAAAB] [GameID: cfb9bc7b-93a9-4a3e-af3f-1d329e899cde] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 21:21:46] [TYPE: SESSION_START] [User: Babayan] [SID: Tuv0rf32__vahT_4AAAB] | User 'Babayan' authenticated and joined.
+[2025-11-09 21:21:48] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 965cc598-11c8-4395-96da-45279ab6f3ae] | Экземпляр сессии 965cc598-11c8-4395-96da-45279ab6f3ae (Фасад) создан.
+[2025-11-09 21:21:48] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 965cc598-11c8-4395-96da-45279ab6f3ae] | Сессия 965cc598-11c8-4395-96da-45279ab6f3ae настроена для PVE.
+[2025-11-09 21:21:48] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: Tuv0rf32__vahT_4AAAB] [GameID: 965cc598-11c8-4395-96da-45279ab6f3ae] | User started new PVE game against Bot_Easy.
+(ThreadPoolExecutor-0_0) Не найден 'app' в GameSession. Выполняем callback без app_context.
+[2025-11-09 21:22:42] [TYPE: SESSION_END] [User: Babayan] [SID: Tuv0rf32__vahT_4AAAB] | User disconnected. Session duration: 0:00:56
+[2025-11-09 21:22:42] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: Tuv0rf32__vahT_4AAAB] [GameID: 965cc598-11c8-4395-96da-45279ab6f3ae] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 21:27:40] [TYPE: SESSION_START] [User: Babayan] [SID: U4GyPKiKnq_iNFHfAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-09 21:27:43] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 4b1d8959-1b20-4928-b25c-1a6598de717c] | Экземпляр сессии 4b1d8959-1b20-4928-b25c-1a6598de717c (Фасад) создан.
+[2025-11-09 21:27:43] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 4b1d8959-1b20-4928-b25c-1a6598de717c] | Сессия 4b1d8959-1b20-4928-b25c-1a6598de717c настроена для PVE.
+[2025-11-09 21:27:43] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: U4GyPKiKnq_iNFHfAAAB] [GameID: 4b1d8959-1b20-4928-b25c-1a6598de717c] | User started new PVE game against Bot_Easy.
+(ThreadPoolExecutor-0_0) Не найден 'app' в GameSession. Выполняем callback без app_context.
+[2025-11-09 21:28:20] [TYPE: SESSION_END] [User: Babayan] [SID: U4GyPKiKnq_iNFHfAAAB] | User disconnected. Session duration: 0:00:39
+[2025-11-09 21:28:20] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: U4GyPKiKnq_iNFHfAAAB] [GameID: 4b1d8959-1b20-4928-b25c-1a6598de717c] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 21:28:35] [TYPE: SESSION_START] [User: Babayan] [SID: P4Z5afVBSvA2ci_GAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-09 21:28:38] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 73cde851-c8a5-4978-92da-ae5f510653bb] | Экземпляр сессии 73cde851-c8a5-4978-92da-ae5f510653bb (Фасад) создан.
+[2025-11-09 21:28:38] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 73cde851-c8a5-4978-92da-ae5f510653bb] | Сессия 73cde851-c8a5-4978-92da-ae5f510653bb настроена для PVE.
+[2025-11-09 21:28:38] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: P4Z5afVBSvA2ci_GAAAB] [GameID: 73cde851-c8a5-4978-92da-ae5f510653bb] | User started new PVE game against Bot_Easy.
+(ThreadPoolExecutor-0_0) Не найден 'app' в GameSession. Выполняем callback без app_context.
+[2025-11-09 21:29:50] [TYPE: SESSION_END] [User: Babayan] [SID: P4Z5afVBSvA2ci_GAAAB] | User disconnected. Session duration: 0:01:14
+[2025-11-09 21:29:50] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: P4Z5afVBSvA2ci_GAAAB] [GameID: 73cde851-c8a5-4978-92da-ae5f510653bb] | Player disconnected from game.
+[2025-11-09 21:39:09] [TYPE: SESSION_START] [User: Babayan] [SID: s0f9vKzq9QrCEIJzAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-09 21:39:11] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 659b1b5a-6971-41fb-ba35-9eba5b8ab096] | Экземпляр сессии 659b1b5a-6971-41fb-ba35-9eba5b8ab096 (Фасад) создан.
+[2025-11-09 21:39:11] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 659b1b5a-6971-41fb-ba35-9eba5b8ab096] | Сессия 659b1b5a-6971-41fb-ba35-9eba5b8ab096 настроена для PVE.
+[2025-11-09 21:39:11] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: s0f9vKzq9QrCEIJzAAAD] [GameID: 659b1b5a-6971-41fb-ba35-9eba5b8ab096] | User started new PVE game against Bot_Easy.
+(ThreadPoolExecutor-0_0) Не найден 'app' в GameSession. Выполняем callback без app_context.
+[2025-11-09 21:39:55] [TYPE: SESSION_END] [User: Babayan] [SID: s0f9vKzq9QrCEIJzAAAD] | User disconnected. Session duration: 0:00:46
+[2025-11-09 21:39:55] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: s0f9vKzq9QrCEIJzAAAD] [GameID: 659b1b5a-6971-41fb-ba35-9eba5b8ab096] | Player disconnected from game.
+[2025-11-09 21:40:56] [TYPE: SESSION_START] [User: Babayan] [SID: PDpUgzpidc7YyhtCAAAF] | User 'Babayan' authenticated and joined.
+[2025-11-09 21:40:59] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 254b15fb-6510-4aea-84ec-555002d9ebfe] | Экземпляр сессии 254b15fb-6510-4aea-84ec-555002d9ebfe (Фасад) создан.
+[2025-11-09 21:40:59] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 254b15fb-6510-4aea-84ec-555002d9ebfe] | Сессия 254b15fb-6510-4aea-84ec-555002d9ebfe настроена для PVE.
+[2025-11-09 21:40:59] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: PDpUgzpidc7YyhtCAAAF] [GameID: 254b15fb-6510-4aea-84ec-555002d9ebfe] | User started new PVE game against Bot_Easy.
+(ThreadPoolExecutor-0_0) Не найден 'app' в GameSession. Выполняем callback без app_context.
+[2025-11-09 21:41:55] [TYPE: SESSION_END] [User: Babayan] [SID: PDpUgzpidc7YyhtCAAAF] | User disconnected. Session duration: 0:00:59
+[2025-11-09 21:41:55] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: PDpUgzpidc7YyhtCAAAF] [GameID: 254b15fb-6510-4aea-84ec-555002d9ebfe] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 22:41:07] [TYPE: SESSION_START] [User: Babayan] [SID: XMVRIZjF7b3scA1bAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-09 22:41:09] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 096672ac-bd80-4277-b30f-e2305dfb734a] | Экземпляр сессии 096672ac-bd80-4277-b30f-e2305dfb734a (Фасад) создан.
+[2025-11-09 22:41:09] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 096672ac-bd80-4277-b30f-e2305dfb734a] | Сессия 096672ac-bd80-4277-b30f-e2305dfb734a настроена для PVE.
+[2025-11-09 22:41:09] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: XMVRIZjF7b3scA1bAAAB] [GameID: 096672ac-bd80-4277-b30f-e2305dfb734a] | User started new PVE game against Bot_Easy.
+[2025-11-09 22:42:03] [TYPE: SESSION_END] [User: Babayan] [SID: XMVRIZjF7b3scA1bAAAB] | User disconnected. Session duration: 0:00:56
+[2025-11-09 22:42:03] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: XMVRIZjF7b3scA1bAAAB] [GameID: 096672ac-bd80-4277-b30f-e2305dfb734a] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-09 23:54:57] [TYPE: SESSION_START] [User: Babayan] [SID: AlmR6xUV-IQUpccvAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-09 23:55:01] [TYPE: SESSION_INIT] [User: Unknown] [GameID: dc2db2c8-f2be-482c-8c7f-aed3230aab5e] | Экземпляр сессии dc2db2c8-f2be-482c-8c7f-aed3230aab5e (Фасад) создан.
+[2025-11-09 23:55:01] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: dc2db2c8-f2be-482c-8c7f-aed3230aab5e] | Сессия dc2db2c8-f2be-482c-8c7f-aed3230aab5e настроена для PVE.
+[2025-11-09 23:55:01] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: AlmR6xUV-IQUpccvAAAB] [GameID: dc2db2c8-f2be-482c-8c7f-aed3230aab5e] | User started new PVE game against Bot_Easy.
+[2025-11-09 23:55:56] [TYPE: SESSION_END] [User: Babayan] [SID: AlmR6xUV-IQUpccvAAAB] | User disconnected. Session duration: 0:00:59
+[2025-11-09 23:55:56] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: AlmR6xUV-IQUpccvAAAB] [GameID: dc2db2c8-f2be-482c-8c7f-aed3230aab5e] | Player disconnected from game.
+[2025-11-09 23:57:52] [TYPE: SESSION_START] [User: Babayan] [SID: MrNz5TWrJgdehesiAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-09 23:57:55] [TYPE: SESSION_INIT] [User: Unknown] [GameID: d2cb9f15-5236-4452-9331-c341592c6664] | Экземпляр сессии d2cb9f15-5236-4452-9331-c341592c6664 (Фасад) создан.
+[2025-11-09 23:57:55] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: d2cb9f15-5236-4452-9331-c341592c6664] | Сессия d2cb9f15-5236-4452-9331-c341592c6664 настроена для PVE.
+[2025-11-09 23:57:55] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: MrNz5TWrJgdehesiAAAD] [GameID: d2cb9f15-5236-4452-9331-c341592c6664] | User started new PVE game against Bot_Easy.
+[2025-11-09 23:58:55] [TYPE: SESSION_END] [User: Babayan] [SID: MrNz5TWrJgdehesiAAAD] | User disconnected. Session duration: 0:01:03
+[2025-11-09 23:58:55] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: MrNz5TWrJgdehesiAAAD] [GameID: d2cb9f15-5236-4452-9331-c341592c6664] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 00:00:24] [TYPE: SESSION_START] [User: Babayan] [SID: meye96q0PHTe-7CxAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 00:00:27] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 0ebd150b-f470-4968-8933-1b9a0e23ac5d] | Экземпляр сессии 0ebd150b-f470-4968-8933-1b9a0e23ac5d (Фасад) создан.
+[2025-11-10 00:00:27] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 0ebd150b-f470-4968-8933-1b9a0e23ac5d] | Сессия 0ebd150b-f470-4968-8933-1b9a0e23ac5d настроена для PVE.
+[2025-11-10 00:00:27] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: meye96q0PHTe-7CxAAAB] [GameID: 0ebd150b-f470-4968-8933-1b9a0e23ac5d] | User started new PVE game against Bot_Easy.
+[2025-11-10 00:01:24] [TYPE: SESSION_END] [User: Babayan] [SID: meye96q0PHTe-7CxAAAB] | User disconnected. Session duration: 0:00:59
+[2025-11-10 00:01:24] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: meye96q0PHTe-7CxAAAB] [GameID: 0ebd150b-f470-4968-8933-1b9a0e23ac5d] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 00:05:01] [TYPE: SESSION_START] [User: Babayan] [SID: BTohC_gqJm4TGVOkAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 00:05:03] [TYPE: SESSION_INIT] [User: Unknown] [GameID: ac271b26-0a0d-4773-964a-8e5d3914d9cb] | Экземпляр сессии ac271b26-0a0d-4773-964a-8e5d3914d9cb (Фасад) создан.
+[2025-11-10 00:05:03] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: ac271b26-0a0d-4773-964a-8e5d3914d9cb] | Сессия ac271b26-0a0d-4773-964a-8e5d3914d9cb настроена для PVE.
+[2025-11-10 00:05:03] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: BTohC_gqJm4TGVOkAAAB] [GameID: ac271b26-0a0d-4773-964a-8e5d3914d9cb] | User started new PVE game against Bot_Easy.
+[2025-11-10 00:05:53] [TYPE: SESSION_END] [User: Babayan] [SID: BTohC_gqJm4TGVOkAAAB] | User disconnected. Session duration: 0:00:52
+[2025-11-10 00:05:53] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: BTohC_gqJm4TGVOkAAAB] [GameID: ac271b26-0a0d-4773-964a-8e5d3914d9cb] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 00:17:22] [TYPE: SESSION_START] [User: Babayan] [SID: lX-a4mQcXLKgbtIlAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 00:17:26] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 735a5fad-894f-4e59-a299-64efb0e7b1e8] | Экземпляр сессии 735a5fad-894f-4e59-a299-64efb0e7b1e8 (Фасад) создан.
+[2025-11-10 00:17:26] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 735a5fad-894f-4e59-a299-64efb0e7b1e8] | Сессия 735a5fad-894f-4e59-a299-64efb0e7b1e8 настроена для PVE.
+[2025-11-10 00:17:26] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: lX-a4mQcXLKgbtIlAAAB] [GameID: 735a5fad-894f-4e59-a299-64efb0e7b1e8] | User started new PVE game against Bot_Easy.
+[2025-11-10 00:18:37] [TYPE: SESSION_END] [User: Babayan] [SID: lX-a4mQcXLKgbtIlAAAB] | User disconnected. Session duration: 0:01:14
+[2025-11-10 00:18:37] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: lX-a4mQcXLKgbtIlAAAB] [GameID: 735a5fad-894f-4e59-a299-64efb0e7b1e8] | Player disconnected from game.
+[2025-11-10 00:26:48] [TYPE: SESSION_START] [User: Babayan] [SID: tQNWHw8Lm0qY1njfAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-10 00:26:50] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 4adf4095-106f-43da-98c8-e629ffd2571c] | Экземпляр сессии 4adf4095-106f-43da-98c8-e629ffd2571c (Фасад) создан.
+[2025-11-10 00:26:50] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 4adf4095-106f-43da-98c8-e629ffd2571c] | Сессия 4adf4095-106f-43da-98c8-e629ffd2571c настроена для PVE.
+[2025-11-10 00:26:50] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: tQNWHw8Lm0qY1njfAAAD] [GameID: 4adf4095-106f-43da-98c8-e629ffd2571c] | User started new PVE game against Bot_Easy.
+[2025-11-10 00:28:23] [TYPE: SESSION_END] [User: Babayan] [SID: tQNWHw8Lm0qY1njfAAAD] | User disconnected. Session duration: 0:01:35
+[2025-11-10 00:28:23] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: tQNWHw8Lm0qY1njfAAAD] [GameID: 4adf4095-106f-43da-98c8-e629ffd2571c] | Player disconnected from game.
+[2025-11-10 01:18:37] [TYPE: SESSION_START] [User: Babayan] [SID: 7a9EAnfjrhQ0Y5lEAAAF] | User 'Babayan' authenticated and joined.
+[2025-11-10 01:18:40] [TYPE: SESSION_INIT] [User: Unknown] [GameID: e1285147-1b21-4e1c-aeb7-b6d903a8b347] | Экземпляр сессии e1285147-1b21-4e1c-aeb7-b6d903a8b347 (Фасад) создан.
+[2025-11-10 01:18:40] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: e1285147-1b21-4e1c-aeb7-b6d903a8b347] | Сессия e1285147-1b21-4e1c-aeb7-b6d903a8b347 настроена для PVE.
+[2025-11-10 01:18:40] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: 7a9EAnfjrhQ0Y5lEAAAF] [GameID: e1285147-1b21-4e1c-aeb7-b6d903a8b347] | User started new PVE game against Bot_Easy.
+[2025-11-10 01:19:52] [TYPE: SESSION_END] [User: Babayan] [SID: 7a9EAnfjrhQ0Y5lEAAAF] | User disconnected. Session duration: 0:01:14
+[2025-11-10 01:19:52] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: 7a9EAnfjrhQ0Y5lEAAAF] [GameID: e1285147-1b21-4e1c-aeb7-b6d903a8b347] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 02:01:40] [TYPE: SESSION_START] [User: Babayan] [SID: AYCptRzwUr1MUzWrAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 02:01:44] [TYPE: SESSION_INIT] [User: Unknown] [GameID: c51a70c7-14f4-4a09-81ba-7db8620e761a] | Экземпляр сессии c51a70c7-14f4-4a09-81ba-7db8620e761a (Фасад) создан.
+[2025-11-10 02:01:44] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: c51a70c7-14f4-4a09-81ba-7db8620e761a] | Сессия c51a70c7-14f4-4a09-81ba-7db8620e761a настроена для PVE.
+[2025-11-10 02:01:44] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: AYCptRzwUr1MUzWrAAAB] [GameID: c51a70c7-14f4-4a09-81ba-7db8620e761a] | User started new PVE game against Bot_Easy.
+[2025-11-10 02:02:43] [TYPE: SESSION_END] [User: Babayan] [SID: AYCptRzwUr1MUzWrAAAB] | User disconnected. Session duration: 0:01:02
+[2025-11-10 02:02:43] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: AYCptRzwUr1MUzWrAAAB] [GameID: c51a70c7-14f4-4a09-81ba-7db8620e761a] | Player disconnected from game.
+[2025-11-10 03:57:27] [TYPE: SESSION_START] [User: Babayan] [SID: 2FCTOOrcpU-uezQoAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-10 03:57:30] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 761443f2-d064-4f18-b76f-effa4655e0fe] | Экземпляр сессии 761443f2-d064-4f18-b76f-effa4655e0fe (Фасад) создан.
+[2025-11-10 03:57:30] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 761443f2-d064-4f18-b76f-effa4655e0fe] | Сессия 761443f2-d064-4f18-b76f-effa4655e0fe настроена для PVE.
+[2025-11-10 03:57:30] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: 2FCTOOrcpU-uezQoAAAD] [GameID: 761443f2-d064-4f18-b76f-effa4655e0fe] | User started new PVE game against Bot_Easy.
+[2025-11-10 03:57:46] [TYPE: SESSION_END] [User: Babayan] [SID: 2FCTOOrcpU-uezQoAAAD] | User disconnected. Session duration: 0:00:18
+[2025-11-10 03:57:46] [TYPE: PLAYER_DISCONNECT] [User: Babayan] [SID: 2FCTOOrcpU-uezQoAAAD] [GameID: 761443f2-d064-4f18-b76f-effa4655e0fe] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 04:08:58] [TYPE: SESSION_START] [User: Babayan] [SID: 0DtCkHHOuLxd89EHAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 04:09:01] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 96f428e1-da75-4c21-ae7c-a764f7ed5731] | Экземпляр сессии 96f428e1-da75-4c21-ae7c-a764f7ed5731 (Фасад) создан.
+[2025-11-10 04:09:01] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 96f428e1-da75-4c21-ae7c-a764f7ed5731] | Сессия 96f428e1-da75-4c21-ae7c-a764f7ed5731 настроена для PVE.
+[2025-11-10 04:09:01] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: 0DtCkHHOuLxd89EHAAAB] [GameID: 96f428e1-da75-4c21-ae7c-a764f7ed5731] | User started new PVE game against Bot_Easy.
+[2025-11-10 04:10:38] [TYPE: SESSION_END] [User: Unknown] [SID: 0DtCkHHOuLxd89EHAAAB] | User 'Babayan' disconnected. Session duration: 0:01:39
+[2025-11-10 04:10:38] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: 0DtCkHHOuLxd89EHAAAB] [GameID: 96f428e1-da75-4c21-ae7c-a764f7ed5731] | Player disconnected from game.
+[2025-11-10 04:15:53] [TYPE: SESSION_START] [User: Babayan] [SID: A3dOrnx02ZB9LDIJAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-10 04:15:56] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 81022b83-7529-4d2d-839e-34f378e03f07] | Экземпляр сессии 81022b83-7529-4d2d-839e-34f378e03f07 (Фасад) создан.
+[2025-11-10 04:15:56] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 81022b83-7529-4d2d-839e-34f378e03f07] | Сессия 81022b83-7529-4d2d-839e-34f378e03f07 настроена для PVE.
+[2025-11-10 04:15:56] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: A3dOrnx02ZB9LDIJAAAD] [GameID: 81022b83-7529-4d2d-839e-34f378e03f07] | User started new PVE game against Bot_Easy.
+[2025-11-10 04:16:26] [TYPE: SESSION_END] [User: Unknown] [SID: A3dOrnx02ZB9LDIJAAAD] | User 'Babayan' disconnected. Session duration: 0:00:33
+[2025-11-10 04:16:26] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: A3dOrnx02ZB9LDIJAAAD] [GameID: 81022b83-7529-4d2d-839e-34f378e03f07] | Player disconnected from game.
+[2025-11-10 04:23:08] [TYPE: SESSION_START] [User: Babayan] [SID: JtlBrJ1VAxAq-n39AAAF] | User 'Babayan' authenticated and joined.
+[2025-11-10 04:23:10] [TYPE: SESSION_INIT] [User: Unknown] [GameID: a29bacb2-baad-4b5b-8845-d3a0c2286e18] | Экземпляр сессии a29bacb2-baad-4b5b-8845-d3a0c2286e18 (Фасад) создан.
+[2025-11-10 04:23:10] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: a29bacb2-baad-4b5b-8845-d3a0c2286e18] | Сессия a29bacb2-baad-4b5b-8845-d3a0c2286e18 настроена для PVE.
+[2025-11-10 04:23:10] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: JtlBrJ1VAxAq-n39AAAF] [GameID: a29bacb2-baad-4b5b-8845-d3a0c2286e18] | User started new PVE game against Bot_Easy.
+[2025-11-10 04:23:35] [TYPE: SESSION_END] [User: Unknown] [SID: JtlBrJ1VAxAq-n39AAAF] | User 'Babayan' disconnected. Session duration: 0:00:26
+[2025-11-10 04:23:35] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: JtlBrJ1VAxAq-n39AAAF] [GameID: a29bacb2-baad-4b5b-8845-d3a0c2286e18] | Player disconnected from game.
+[2025-11-10 04:27:56] [TYPE: SESSION_START] [User: Babayan] [SID: 6Oa6b6Du_WgHm_9bAAAH] | User 'Babayan' authenticated and joined.
+[2025-11-10 04:27:59] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 90784c75-bbbc-4aeb-a1ca-ae16a94b8dc1] | Экземпляр сессии 90784c75-bbbc-4aeb-a1ca-ae16a94b8dc1 (Фасад) создан.
+[2025-11-10 04:27:59] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 90784c75-bbbc-4aeb-a1ca-ae16a94b8dc1] | Сессия 90784c75-bbbc-4aeb-a1ca-ae16a94b8dc1 настроена для PVE.
+[2025-11-10 04:27:59] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: 6Oa6b6Du_WgHm_9bAAAH] [GameID: 90784c75-bbbc-4aeb-a1ca-ae16a94b8dc1] | User started new PVE game against Bot_Easy.
+[2025-11-10 04:29:11] [TYPE: SESSION_END] [User: Unknown] [SID: 6Oa6b6Du_WgHm_9bAAAH] | User 'Babayan' disconnected. Session duration: 0:01:14
+[2025-11-10 04:29:11] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: 6Oa6b6Du_WgHm_9bAAAH] [GameID: 90784c75-bbbc-4aeb-a1ca-ae16a94b8dc1] | Player disconnected from game.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 04:49:30] [TYPE: SESSION_START] [User: Babayan] [SID: 56vw_U2xf5UdLoKgAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 04:49:32] [TYPE: MATCHMAKING_START] [User: Babayan] [SID: 56vw_U2xf5UdLoKgAAAB] | User started searching for PVP.
+[2025-11-10 04:49:32] [TYPE: MATCHMAKING_QUEUED] [User: Babayan] [SID: 56vw_U2xf5UdLoKgAAAB] | Player added to queue.
+[2025-11-10 04:49:39] [TYPE: SESSION_END] [User: Unknown] [SID: 56vw_U2xf5UdLoKgAAAB] | User 'Babayan' disconnected. Session duration: 0:00:09
+[2025-11-10 04:49:39] [TYPE: MATCHMAKING_CANCEL] [User: Unknown] [SID: 56vw_U2xf5UdLoKgAAAB] | Player cancelled matchmaking.
+[2025-11-10 04:49:54] [TYPE: SESSION_START] [User: Babayan] [SID: BVztJzYOyzaDUcHhAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-10 04:52:06] [TYPE: SESSION_END] [User: Unknown] [SID: BVztJzYOyzaDUcHhAAAD] | User 'Babayan' disconnected. Session duration: 0:02:12
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 04:52:27] [TYPE: SESSION_START] [User: Babayan] [SID: wSVh81CRMuE24FXfAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 04:54:52] [TYPE: SESSION_END] [User: Unknown] [SID: wSVh81CRMuE24FXfAAAB] | User 'Babayan' disconnected. Session duration: 0:02:25
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 04:57:15] [TYPE: SESSION_START] [User: Babayan] [SID: gpY9C8zYrm-_mw2SAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 04:59:00] [TYPE: SESSION_END] [User: Unknown] [SID: gpY9C8zYrm-_mw2SAAAB] | User 'Babayan' disconnected. Session duration: 0:01:45
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 05:00:15] [TYPE: SESSION_START] [User: Babayan] [SID: JLPkphwk4MxGGogZAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 05:00:24] [TYPE: SESSION_END] [User: Unknown] [SID: JLPkphwk4MxGGogZAAAB] | User 'Babayan' disconnected. Session duration: 0:00:08
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 05:02:20] [TYPE: SESSION_START] [User: Babayan] [SID: 9MgOzNerJyEt25W7AAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 05:02:22] [TYPE: SESSION_END] [User: Unknown] [SID: 9MgOzNerJyEt25W7AAAB] | User 'Babayan' disconnected. Session duration: 0:00:02
+[2025-11-10 05:02:34] [TYPE: SESSION_START] [User: Babayan] [SID: TTDrBTfSUWSMLrbwAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-10 05:04:03] [TYPE: SESSION_END] [User: Unknown] [SID: TTDrBTfSUWSMLrbwAAAD] | User 'Babayan' disconnected. Session duration: 0:01:29
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 05:05:35] [TYPE: SESSION_START] [User: Babayan] [SID: VHNRw67znXXcyMcZAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 05:07:00] [TYPE: SESSION_END] [User: Unknown] [SID: VHNRw67znXXcyMcZAAAB] | User 'Babayan' disconnected. Session duration: 0:01:25
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 05:12:56] [TYPE: SESSION_START] [User: Babayan] [SID: 8xY3rdfCJxuaS3SPAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 05:15:11] [TYPE: SESSION_END] [User: Unknown] [SID: 8xY3rdfCJxuaS3SPAAAB] | User 'Babayan' disconnected. Session duration: 0:02:14
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 05:19:33] [TYPE: SESSION_START] [User: Babayan] [SID: hRfMGEvco0s4ljNsAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 05:19:44] [TYPE: SESSION_END] [User: Unknown] [SID: hRfMGEvco0s4ljNsAAAB] | User 'Babayan' disconnected. Session duration: 0:00:11
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 12:58:12] [TYPE: SESSION_START] [User: Babayan] [SID: VpKB9EdesgXtK9z9AAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 13:00:27] [TYPE: SESSION_END] [User: Unknown] [SID: VpKB9EdesgXtK9z9AAAB] | User 'Babayan' disconnected. Session duration: 0:02:14
+[2025-11-10 13:16:34] [TYPE: SESSION_START] [User: Babayan] [SID: uR6H5QDD3XiyboBzAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-10 13:16:45] [TYPE: SESSION_END] [User: Unknown] [SID: uR6H5QDD3XiyboBzAAAD] | User 'Babayan' disconnected. Session duration: 0:00:10
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 14:47:19] [TYPE: SESSION_START] [User: Babayan] [SID: XgsVmV5vJCiT8Hp1AAAB] | User 'Babayan' authenticated and joined.
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 14:50:04] [TYPE: SESSION_START] [User: Babayan] [SID: eTP3Ul1Tpp4DpnMXAAAB] | User 'Babayan' authenticated and joined.
+Инициализирован. Использует 'gnubg_service'. Пул потоков: 16 worker(ов).
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 15:09:31] [TYPE: SESSION_START] [User: Babayan] [SID: ioUJI7WhedZwQhS1AAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 15:09:57] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 99513ee3-92f3-4550-bcff-3f08c7ca7821] | Экземпляр сессии 99513ee3-92f3-4550-bcff-3f08c7ca7821 (Фасад) создан.
+[2025-11-10 15:09:57] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 99513ee3-92f3-4550-bcff-3f08c7ca7821] | Сессия 99513ee3-92f3-4550-bcff-3f08c7ca7821 настроена для PVE.
+[2025-11-10 15:09:57] [TYPE: GAME_CREATED] [User: Babayan] [SID: ioUJI7WhedZwQhS1AAAB] [GameID: 99513ee3-92f3-4550-bcff-3f08c7ca7821] | PVE игра 99513ee3-92f3-4550-bcff-3f08c7ca7821 создана для Babayan
+[2025-11-10 15:09:57] [TYPE: REGISTRY_ADD] [User: Unknown] [GameID: 99513ee3-92f3-4550-bcff-3f08c7ca7821] | Игра 99513ee3-92f3-4550-bcff-3f08c7ca7821 добавлена. Всего игр: 1
+[2025-11-10 15:09:57] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: ioUJI7WhedZwQhS1AAAB] [GameID: 99513ee3-92f3-4550-bcff-3f08c7ca7821] | User started new PVE game against Bot_Easy.
+[2025-11-10 15:10:50] [TYPE: SESSION_END] [User: Unknown] [SID: ioUJI7WhedZwQhS1AAAB] | User 'Babayan' disconnected. Session duration: 0:01:18
+[2025-11-10 15:10:50] [TYPE: REGISTRY_DISSOC] [User: Unknown] [SID: ioUJI7WhedZwQhS1AAAB] [GameID: 99513ee3-92f3-4550-bcff-3f08c7ca7821] | SID ioUJI7WhedZwQhS1AAAB отвязан от игры 99513ee3-92f3-4550-bcff-3f08c7ca7821
+[2025-11-10 15:10:50] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: ioUJI7WhedZwQhS1AAAB] [GameID: 99513ee3-92f3-4550-bcff-3f08c7ca7821] | Player disconnected from game.
+[2025-11-10 15:11:50] [TYPE: REGISTRY_REMOVE] [User: Unknown] [GameID: 99513ee3-92f3-4550-bcff-3f08c7ca7821] | Игра 99513ee3-92f3-4550-bcff-3f08c7ca7821 удалена. Осталось игр: 0
+Инициализирован. Использует 'gnubg_service'. Пул потоков: 16 worker(ов).
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 16:16:46] [TYPE: SESSION_START] [User: Babayan] [SID: VXJxOGOZu7skK6PLAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 16:16:48] [TYPE: SESSION_INIT] [User: Unknown] [GameID: ace29e6a-f3a7-4d1b-bffe-fd28acd4f134] | Экземпляр сессии ace29e6a-f3a7-4d1b-bffe-fd28acd4f134 (Фасад) создан.
+[2025-11-10 16:16:48] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: ace29e6a-f3a7-4d1b-bffe-fd28acd4f134] | Сессия ace29e6a-f3a7-4d1b-bffe-fd28acd4f134 настроена для PVE.
+[2025-11-10 16:16:48] [TYPE: GAME_CREATED] [User: Babayan] [SID: VXJxOGOZu7skK6PLAAAB] [GameID: ace29e6a-f3a7-4d1b-bffe-fd28acd4f134] | PVE игра ace29e6a-f3a7-4d1b-bffe-fd28acd4f134 создана для Babayan
+[2025-11-10 16:16:48] [TYPE: REGISTRY_ADD] [User: Unknown] [GameID: ace29e6a-f3a7-4d1b-bffe-fd28acd4f134] | Игра ace29e6a-f3a7-4d1b-bffe-fd28acd4f134 добавлена. Всего игр: 1
+[2025-11-10 16:16:48] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: VXJxOGOZu7skK6PLAAAB] [GameID: ace29e6a-f3a7-4d1b-bffe-fd28acd4f134] | User started new PVE game against Bot_Easy.
+[2025-11-10 16:18:01] [TYPE: SESSION_END] [User: Unknown] [SID: VXJxOGOZu7skK6PLAAAB] | User 'Babayan' disconnected. Session duration: 0:01:14
+[2025-11-10 16:18:01] [TYPE: REGISTRY_DISSOC] [User: Unknown] [SID: VXJxOGOZu7skK6PLAAAB] [GameID: ace29e6a-f3a7-4d1b-bffe-fd28acd4f134] | SID VXJxOGOZu7skK6PLAAAB отвязан от игры ace29e6a-f3a7-4d1b-bffe-fd28acd4f134
+[2025-11-10 16:18:01] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: VXJxOGOZu7skK6PLAAAB] [GameID: ace29e6a-f3a7-4d1b-bffe-fd28acd4f134] | Player disconnected from game.
+[2025-11-10 16:19:01] [TYPE: REGISTRY_REMOVE] [User: Unknown] [GameID: ace29e6a-f3a7-4d1b-bffe-fd28acd4f134] | Игра ace29e6a-f3a7-4d1b-bffe-fd28acd4f134 удалена. Осталось игр: 0
+[2025-11-10 17:05:15] [TYPE: SESSION_START] [User: Babayan] [SID: AApsMALQ_AsKTiizAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-10 17:05:19] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 66cf06a4-ceeb-4f37-81f5-0a94444b6ce5] | Экземпляр сессии 66cf06a4-ceeb-4f37-81f5-0a94444b6ce5 (Фасад) создан.
+[2025-11-10 17:05:19] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 66cf06a4-ceeb-4f37-81f5-0a94444b6ce5] | Сессия 66cf06a4-ceeb-4f37-81f5-0a94444b6ce5 настроена для PVE.
+[2025-11-10 17:05:19] [TYPE: GAME_CREATED] [User: Babayan] [SID: AApsMALQ_AsKTiizAAAD] [GameID: 66cf06a4-ceeb-4f37-81f5-0a94444b6ce5] | PVE игра 66cf06a4-ceeb-4f37-81f5-0a94444b6ce5 создана для Babayan
+[2025-11-10 17:05:19] [TYPE: REGISTRY_ADD] [User: Unknown] [GameID: 66cf06a4-ceeb-4f37-81f5-0a94444b6ce5] | Игра 66cf06a4-ceeb-4f37-81f5-0a94444b6ce5 добавлена. Всего игр: 1
+[2025-11-10 17:05:19] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: AApsMALQ_AsKTiizAAAD] [GameID: 66cf06a4-ceeb-4f37-81f5-0a94444b6ce5] | User started new PVE game against Bot_Easy.
+[2025-11-10 17:06:28] [TYPE: SESSION_END] [User: Unknown] [SID: AApsMALQ_AsKTiizAAAD] | User 'Babayan' disconnected. Session duration: 0:01:12
+[2025-11-10 17:06:28] [TYPE: REGISTRY_DISSOC] [User: Unknown] [SID: AApsMALQ_AsKTiizAAAD] [GameID: 66cf06a4-ceeb-4f37-81f5-0a94444b6ce5] | SID AApsMALQ_AsKTiizAAAD отвязан от игры 66cf06a4-ceeb-4f37-81f5-0a94444b6ce5
+[2025-11-10 17:06:28] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: AApsMALQ_AsKTiizAAAD] [GameID: 66cf06a4-ceeb-4f37-81f5-0a94444b6ce5] | Player disconnected from game.
+[2025-11-10 17:07:28] [TYPE: REGISTRY_REMOVE] [User: Unknown] [GameID: 66cf06a4-ceeb-4f37-81f5-0a94444b6ce5] | Игра 66cf06a4-ceeb-4f37-81f5-0a94444b6ce5 удалена. Осталось игр: 0
+Инициализирован. Использует 'gnubg_service'. Пул потоков: 16 worker(ов).
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 17:15:43] [TYPE: SESSION_START] [User: Babayan] [SID: hOLktoEMi5U4WjM3AAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 17:15:47] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 6ea953a1-4ffd-4b5b-9957-1257fa901039] | Экземпляр сессии 6ea953a1-4ffd-4b5b-9957-1257fa901039 (Фасад) создан.
+[2025-11-10 17:15:47] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 6ea953a1-4ffd-4b5b-9957-1257fa901039] | Сессия 6ea953a1-4ffd-4b5b-9957-1257fa901039 настроена для PVE.
+[2025-11-10 17:15:47] [TYPE: GAME_CREATED] [User: Babayan] [SID: hOLktoEMi5U4WjM3AAAB] [GameID: 6ea953a1-4ffd-4b5b-9957-1257fa901039] | PVE игра 6ea953a1-4ffd-4b5b-9957-1257fa901039 создана для Babayan
+[2025-11-10 17:15:47] [TYPE: REGISTRY_ADD] [User: Unknown] [GameID: 6ea953a1-4ffd-4b5b-9957-1257fa901039] | Игра 6ea953a1-4ffd-4b5b-9957-1257fa901039 добавлена. Всего игр: 1
+[2025-11-10 17:15:47] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: hOLktoEMi5U4WjM3AAAB] [GameID: 6ea953a1-4ffd-4b5b-9957-1257fa901039] | User started new PVE game against Bot_Easy.
+[2025-11-10 17:16:58] [TYPE: SESSION_END] [User: Unknown] [SID: hOLktoEMi5U4WjM3AAAB] | User 'Babayan' disconnected. Session duration: 0:01:14
+[2025-11-10 17:16:58] [TYPE: REGISTRY_DISSOC] [User: Unknown] [SID: hOLktoEMi5U4WjM3AAAB] [GameID: 6ea953a1-4ffd-4b5b-9957-1257fa901039] | SID hOLktoEMi5U4WjM3AAAB отвязан от игры 6ea953a1-4ffd-4b5b-9957-1257fa901039
+[2025-11-10 17:16:58] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: hOLktoEMi5U4WjM3AAAB] [GameID: 6ea953a1-4ffd-4b5b-9957-1257fa901039] | Player disconnected from game.
+[2025-11-10 17:17:58] [TYPE: REGISTRY_REMOVE] [User: Unknown] [GameID: 6ea953a1-4ffd-4b5b-9957-1257fa901039] | Игра 6ea953a1-4ffd-4b5b-9957-1257fa901039 удалена. Осталось игр: 0
+Инициализирован. Использует 'gnubg_service'. Пул потоков: 16 worker(ов).
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализирован. Использует 'gnubg_service'. Пул потоков: 16 worker(ов).
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 17:38:43] [TYPE: SESSION_START] [User: Babayan] [SID: gI6bPoBE3iZml1SPAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 17:38:47] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 5761ffc9-6862-41c6-8754-eb9d35aca503] | Экземпляр сессии 5761ffc9-6862-41c6-8754-eb9d35aca503 (Фасад) создан.
+[2025-11-10 17:38:47] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 5761ffc9-6862-41c6-8754-eb9d35aca503] | Сессия 5761ffc9-6862-41c6-8754-eb9d35aca503 настроена для PVE.
+[2025-11-10 17:38:47] [TYPE: GAME_CREATED] [User: Babayan] [SID: gI6bPoBE3iZml1SPAAAB] [GameID: 5761ffc9-6862-41c6-8754-eb9d35aca503] | PVE игра 5761ffc9-6862-41c6-8754-eb9d35aca503 создана для Babayan
+[2025-11-10 17:38:47] [TYPE: REGISTRY_ADD] [User: Unknown] [GameID: 5761ffc9-6862-41c6-8754-eb9d35aca503] | Игра 5761ffc9-6862-41c6-8754-eb9d35aca503 добавлена. Всего игр: 1
+[2025-11-10 17:38:47] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: gI6bPoBE3iZml1SPAAAB] [GameID: 5761ffc9-6862-41c6-8754-eb9d35aca503] | User started new PVE game against Bot_Easy.
+[2025-11-10 17:40:18] [TYPE: SESSION_END] [User: Unknown] [SID: gI6bPoBE3iZml1SPAAAB] | User 'Babayan' disconnected. Session duration: 0:01:35
+[2025-11-10 17:40:18] [TYPE: REGISTRY_DISSOC] [User: Unknown] [SID: gI6bPoBE3iZml1SPAAAB] [GameID: 5761ffc9-6862-41c6-8754-eb9d35aca503] | SID gI6bPoBE3iZml1SPAAAB отвязан от игры 5761ffc9-6862-41c6-8754-eb9d35aca503
+[2025-11-10 17:40:18] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: gI6bPoBE3iZml1SPAAAB] [GameID: 5761ffc9-6862-41c6-8754-eb9d35aca503] | Player disconnected from game.
+[2025-11-10 17:41:18] [TYPE: REGISTRY_REMOVE] [User: Unknown] [GameID: 5761ffc9-6862-41c6-8754-eb9d35aca503] | Игра 5761ffc9-6862-41c6-8754-eb9d35aca503 удалена. Осталось игр: 0
+Инициализирован. Использует 'gnubg_service'. Пул потоков: 16 worker(ов).
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 19:04:37] [TYPE: SESSION_START] [User: Babayan] [SID: YV7gUlWkNF2687ubAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 19:04:42] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 9357b5fa-da9a-4155-84fc-5a82e5a68398] | Экземпляр сессии 9357b5fa-da9a-4155-84fc-5a82e5a68398 (Фасад) создан.
+[2025-11-10 19:04:42] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 9357b5fa-da9a-4155-84fc-5a82e5a68398] | Сессия 9357b5fa-da9a-4155-84fc-5a82e5a68398 настроена для PVE.
+[2025-11-10 19:04:42] [TYPE: GAME_CREATED] [User: Babayan] [SID: YV7gUlWkNF2687ubAAAB] [GameID: 9357b5fa-da9a-4155-84fc-5a82e5a68398] | PVE игра 9357b5fa-da9a-4155-84fc-5a82e5a68398 создана для Babayan
+[2025-11-10 19:04:42] [TYPE: REGISTRY_ADD] [User: Unknown] [GameID: 9357b5fa-da9a-4155-84fc-5a82e5a68398] | Игра 9357b5fa-da9a-4155-84fc-5a82e5a68398 добавлена. Всего игр: 1
+[2025-11-10 19:04:42] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: YV7gUlWkNF2687ubAAAB] [GameID: 9357b5fa-da9a-4155-84fc-5a82e5a68398] | User started new PVE game against Bot_Easy.
+[2025-11-10 19:06:12] [TYPE: SESSION_END] [User: Unknown] [SID: YV7gUlWkNF2687ubAAAB] | User 'Babayan' disconnected. Session duration: 0:01:34
+[2025-11-10 19:06:12] [TYPE: REGISTRY_DISSOC] [User: Unknown] [SID: YV7gUlWkNF2687ubAAAB] [GameID: 9357b5fa-da9a-4155-84fc-5a82e5a68398] | SID YV7gUlWkNF2687ubAAAB отвязан от игры 9357b5fa-da9a-4155-84fc-5a82e5a68398
+[2025-11-10 19:06:12] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: YV7gUlWkNF2687ubAAAB] [GameID: 9357b5fa-da9a-4155-84fc-5a82e5a68398] | Player disconnected from game.
+[2025-11-10 19:07:12] [TYPE: REGISTRY_REMOVE] [User: Unknown] [GameID: 9357b5fa-da9a-4155-84fc-5a82e5a68398] | Игра 9357b5fa-da9a-4155-84fc-5a82e5a68398 удалена. Осталось игр: 0
+[2025-11-10 19:11:00] [TYPE: SESSION_START] [User: Babayan] [SID: 6OWIXmdotO6cb7E_AAAD] | User 'Babayan' authenticated and joined.
+[2025-11-10 19:11:02] [TYPE: SESSION_INIT] [User: Unknown] [GameID: ebdcf098-8ff3-46e6-9c0b-588a304d2685] | Экземпляр сессии ebdcf098-8ff3-46e6-9c0b-588a304d2685 (Фасад) создан.
+[2025-11-10 19:11:02] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: ebdcf098-8ff3-46e6-9c0b-588a304d2685] | Сессия ebdcf098-8ff3-46e6-9c0b-588a304d2685 настроена для PVE.
+[2025-11-10 19:11:02] [TYPE: GAME_CREATED] [User: Babayan] [SID: 6OWIXmdotO6cb7E_AAAD] [GameID: ebdcf098-8ff3-46e6-9c0b-588a304d2685] | PVE игра ebdcf098-8ff3-46e6-9c0b-588a304d2685 создана для Babayan
+[2025-11-10 19:11:02] [TYPE: REGISTRY_ADD] [User: Unknown] [GameID: ebdcf098-8ff3-46e6-9c0b-588a304d2685] | Игра ebdcf098-8ff3-46e6-9c0b-588a304d2685 добавлена. Всего игр: 1
+[2025-11-10 19:11:02] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: 6OWIXmdotO6cb7E_AAAD] [GameID: ebdcf098-8ff3-46e6-9c0b-588a304d2685] | User started new PVE game against Bot_Easy.
+[2025-11-10 19:11:05] [TYPE: AUTO_TURN_FINISH] [User: Babayan] [SID: 6OWIXmdotO6cb7E_AAAD] [GameID: ebdcf098-8ff3-46e6-9c0b-588a304d2685] | У игрока (Sign 0) нет ходов с [6, 5]. Авто-завершение.
+[2025-11-10 19:11:05] [TYPE: AUTO_TURN_FINISH] [User: Babayan] [SID: 6OWIXmdotO6cb7E_AAAD] [GameID: ebdcf098-8ff3-46e6-9c0b-588a304d2685] | У игрока (Sign 0) нет ходов с [5, 1]. Авто-завершение.
+[2025-11-10 19:11:57] [TYPE: SESSION_END] [User: Unknown] [SID: 6OWIXmdotO6cb7E_AAAD] | User 'Babayan' disconnected. Session duration: 0:00:57
+[2025-11-10 19:11:57] [TYPE: REGISTRY_DISSOC] [User: Unknown] [SID: 6OWIXmdotO6cb7E_AAAD] [GameID: ebdcf098-8ff3-46e6-9c0b-588a304d2685] | SID 6OWIXmdotO6cb7E_AAAD отвязан от игры ebdcf098-8ff3-46e6-9c0b-588a304d2685
+[2025-11-10 19:11:57] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: 6OWIXmdotO6cb7E_AAAD] [GameID: ebdcf098-8ff3-46e6-9c0b-588a304d2685] | Player disconnected from game.
+[2025-11-10 19:12:57] [TYPE: REGISTRY_REMOVE] [User: Unknown] [GameID: ebdcf098-8ff3-46e6-9c0b-588a304d2685] | Игра ebdcf098-8ff3-46e6-9c0b-588a304d2685 удалена. Осталось игр: 0
+Инициализирован. Использует 'gnubg_service'. Пул потоков: 16 worker(ов).
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 19:18:02] [TYPE: SESSION_START] [User: Babayan] [SID: 0QAJKUkjBVzfkeFpAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 19:18:04] [TYPE: SESSION_INIT] [User: Unknown] [GameID: fade3187-3ce3-4870-b84d-285ecb3bce0f] | Экземпляр сессии fade3187-3ce3-4870-b84d-285ecb3bce0f (Фасад) создан.
+[2025-11-10 19:18:04] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: fade3187-3ce3-4870-b84d-285ecb3bce0f] | Сессия fade3187-3ce3-4870-b84d-285ecb3bce0f настроена для PVE.
+[2025-11-10 19:18:04] [TYPE: GAME_CREATED] [User: Babayan] [SID: 0QAJKUkjBVzfkeFpAAAB] [GameID: fade3187-3ce3-4870-b84d-285ecb3bce0f] | PVE игра fade3187-3ce3-4870-b84d-285ecb3bce0f создана для Babayan
+[2025-11-10 19:18:04] [TYPE: REGISTRY_ADD] [User: Unknown] [GameID: fade3187-3ce3-4870-b84d-285ecb3bce0f] | Игра fade3187-3ce3-4870-b84d-285ecb3bce0f добавлена. Всего игр: 1
+[2025-11-10 19:18:04] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: 0QAJKUkjBVzfkeFpAAAB] [GameID: fade3187-3ce3-4870-b84d-285ecb3bce0f] | User started new PVE game against Bot_Easy.
+[2025-11-10 19:18:07] [TYPE: AUTO_TURN_FINISH] [User: Babayan] [SID: 0QAJKUkjBVzfkeFpAAAB] [GameID: fade3187-3ce3-4870-b84d-285ecb3bce0f] | У игрока (Sign 0) нет ходов с [1, 3]. Авто-завершение.
+[2025-11-10 19:18:07] [TYPE: AUTO_TURN_FINISH] [User: Babayan] [SID: 0QAJKUkjBVzfkeFpAAAB] [GameID: fade3187-3ce3-4870-b84d-285ecb3bce0f] | У игрока (Sign 0) нет ходов с [5, 5, 5, 5]. Авто-завершение.
+[2025-11-10 19:19:17] [TYPE: SESSION_END] [User: Unknown] [SID: 0QAJKUkjBVzfkeFpAAAB] | User 'Babayan' disconnected. Session duration: 0:01:14
+[2025-11-10 19:19:17] [TYPE: REGISTRY_DISSOC] [User: Unknown] [SID: 0QAJKUkjBVzfkeFpAAAB] [GameID: fade3187-3ce3-4870-b84d-285ecb3bce0f] | SID 0QAJKUkjBVzfkeFpAAAB отвязан от игры fade3187-3ce3-4870-b84d-285ecb3bce0f
+[2025-11-10 19:19:17] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: 0QAJKUkjBVzfkeFpAAAB] [GameID: fade3187-3ce3-4870-b84d-285ecb3bce0f] | Player disconnected from game.
+[2025-11-10 19:20:17] [TYPE: REGISTRY_REMOVE] [User: Unknown] [GameID: fade3187-3ce3-4870-b84d-285ecb3bce0f] | Игра fade3187-3ce3-4870-b84d-285ecb3bce0f удалена. Осталось игр: 0
+Инициализирован. Использует 'gnubg_service'. Пул потоков: 16 worker(ов).
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализирован. Использует 'gnubg_service'. Пул потоков: 16 worker(ов).
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 20:37:38] [TYPE: SESSION_START] [User: Babayan] [SID: LKmh9LzcYkOGzKUXAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 20:38:22] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 73d0b8cd-eabf-44d7-8b05-b79aa3e6b0f5] | Экземпляр сессии 73d0b8cd-eabf-44d7-8b05-b79aa3e6b0f5 (Фасад) создан.
+[2025-11-10 20:38:22] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 73d0b8cd-eabf-44d7-8b05-b79aa3e6b0f5] | Сессия 73d0b8cd-eabf-44d7-8b05-b79aa3e6b0f5 настроена для PVE.
+[2025-11-10 20:38:22] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: 73d0b8cd-eabf-44d7-8b05-b79aa3e6b0f5] | State -> AWAITING_READY (PVE Setup)
+[2025-11-10 20:38:22] [TYPE: GAME_CREATED] [User: Babayan] [SID: LKmh9LzcYkOGzKUXAAAB] [GameID: 73d0b8cd-eabf-44d7-8b05-b79aa3e6b0f5] | PVE игра 73d0b8cd-eabf-44d7-8b05-b79aa3e6b0f5 создана для Babayan
+[2025-11-10 20:38:22] [TYPE: REGISTRY_ADD] [User: Unknown] [GameID: 73d0b8cd-eabf-44d7-8b05-b79aa3e6b0f5] | Игра 73d0b8cd-eabf-44d7-8b05-b79aa3e6b0f5 добавлена. Всего игр: 1
+[2025-11-10 20:38:22] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: LKmh9LzcYkOGzKUXAAAB] [GameID: 73d0b8cd-eabf-44d7-8b05-b79aa3e6b0f5] | User started new PVE game against Bot_Easy.
+[2025-11-10 20:38:25] [TYPE: STATE_VIOLATION_BLOCKED] [User: Babayan] [SID: LKmh9LzcYkOGzKUXAAAB] [GameID: 73d0b8cd-eabf-44d7-8b05-b79aa3e6b0f5] | Player tried to roll dice in state 'AWAITING_READY'. Expected 'PLAYING'.
+[2025-11-10 20:38:25] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: 73d0b8cd-eabf-44d7-8b05-b79aa3e6b0f5] | State -> STARTING_ROLL (PVE client_ready_for_roll received)
+[2025-11-10 20:38:25] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: 73d0b8cd-eabf-44d7-8b05-b79aa3e6b0f5] | State -> PLAYING (PVE First Roll Resolved)
+[2025-11-10 20:38:57] [TYPE: SESSION_END] [User: Unknown] [SID: LKmh9LzcYkOGzKUXAAAB] | User 'Babayan' disconnected. Session duration: 0:01:19
+[2025-11-10 20:38:57] [TYPE: REGISTRY_DISSOC] [User: Unknown] [SID: LKmh9LzcYkOGzKUXAAAB] [GameID: 73d0b8cd-eabf-44d7-8b05-b79aa3e6b0f5] | SID LKmh9LzcYkOGzKUXAAAB отвязан от игры 73d0b8cd-eabf-44d7-8b05-b79aa3e6b0f5
+[2025-11-10 20:38:57] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: LKmh9LzcYkOGzKUXAAAB] [GameID: 73d0b8cd-eabf-44d7-8b05-b79aa3e6b0f5] | Player disconnected from game.
+[2025-11-10 20:39:57] [TYPE: REGISTRY_REMOVE] [User: Unknown] [GameID: 73d0b8cd-eabf-44d7-8b05-b79aa3e6b0f5] | Игра 73d0b8cd-eabf-44d7-8b05-b79aa3e6b0f5 удалена. Осталось игр: 0
+Инициализирован. Использует 'gnubg_service'. Пул потоков: 16 worker(ов).
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 22:23:11] [TYPE: SESSION_START] [User: Babayan] [SID: --pRGynQXsyV6GTVAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 22:23:14] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 9d30266f-cd58-424e-b83f-b0f0787a04d6] | Экземпляр сессии 9d30266f-cd58-424e-b83f-b0f0787a04d6 (Фасад) создан.
+[2025-11-10 22:23:14] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 9d30266f-cd58-424e-b83f-b0f0787a04d6] | Сессия 9d30266f-cd58-424e-b83f-b0f0787a04d6 настроена для PVE.
+[2025-11-10 22:23:14] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: 9d30266f-cd58-424e-b83f-b0f0787a04d6] | State -> AWAITING_READY (PVE Setup)
+[2025-11-10 22:23:14] [TYPE: GAME_CREATED] [User: Babayan] [SID: --pRGynQXsyV6GTVAAAB] [GameID: 9d30266f-cd58-424e-b83f-b0f0787a04d6] | PVE игра 9d30266f-cd58-424e-b83f-b0f0787a04d6 создана для Babayan
+[2025-11-10 22:23:14] [TYPE: REGISTRY_ADD] [User: Unknown] [GameID: 9d30266f-cd58-424e-b83f-b0f0787a04d6] | Игра 9d30266f-cd58-424e-b83f-b0f0787a04d6 добавлена. Всего игр: 1
+[2025-11-10 22:23:14] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: --pRGynQXsyV6GTVAAAB] [GameID: 9d30266f-cd58-424e-b83f-b0f0787a04d6] | User started new PVE game against Bot_Easy.
+[2025-11-10 22:23:17] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: 9d30266f-cd58-424e-b83f-b0f0787a04d6] | State -> STARTING_ROLL (PVE client_ready_for_roll received)
+[2025-11-10 22:23:18] [TYPE: STATE_VIOLATION_ERROR] [User: Unknown] [GameID: 9d30266f-cd58-424e-b83f-b0f0787a04d6] | start_pve_first_roll called in state STARTING_ROLL. Expected AWAITING_READY.
+[2025-11-10 22:24:51] [TYPE: SESSION_END] [User: Unknown] [SID: --pRGynQXsyV6GTVAAAB] | User 'Babayan' disconnected. Session duration: 0:01:39
+[2025-11-10 22:24:51] [TYPE: REGISTRY_DISSOC] [User: Unknown] [SID: --pRGynQXsyV6GTVAAAB] [GameID: 9d30266f-cd58-424e-b83f-b0f0787a04d6] | SID --pRGynQXsyV6GTVAAAB отвязан от игры 9d30266f-cd58-424e-b83f-b0f0787a04d6
+[2025-11-10 22:24:51] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: --pRGynQXsyV6GTVAAAB] [GameID: 9d30266f-cd58-424e-b83f-b0f0787a04d6] | Player disconnected from game.
+[2025-11-10 22:25:51] [TYPE: REGISTRY_REMOVE] [User: Unknown] [GameID: 9d30266f-cd58-424e-b83f-b0f0787a04d6] | Игра 9d30266f-cd58-424e-b83f-b0f0787a04d6 удалена. Осталось игр: 0
+Инициализирован. Использует 'gnubg_service'. Пул потоков: 16 worker(ов).
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализирован. Использует 'gnubg_service'. Пул потоков: 16 worker(ов).
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 22:39:07] [TYPE: SESSION_START] [User: Babayan] [SID: Qr-M6y8nZeX29LAAAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 22:39:11] [TYPE: SESSION_INIT] [User: Unknown] [GameID: c7cc2003-7ada-4cd0-a265-8711d1d6a370] | Экземпляр сессии c7cc2003-7ada-4cd0-a265-8711d1d6a370 (Фасад) создан.
+[2025-11-10 22:39:11] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: c7cc2003-7ada-4cd0-a265-8711d1d6a370] | Сессия c7cc2003-7ada-4cd0-a265-8711d1d6a370 настроена для PVE.
+[2025-11-10 22:39:11] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: c7cc2003-7ada-4cd0-a265-8711d1d6a370] | State -> AWAITING_READY (PVE Setup)
+[2025-11-10 22:39:11] [TYPE: GAME_CREATED] [User: Babayan] [SID: Qr-M6y8nZeX29LAAAAAB] [GameID: c7cc2003-7ada-4cd0-a265-8711d1d6a370] | PVE игра c7cc2003-7ada-4cd0-a265-8711d1d6a370 создана для Babayan
+[2025-11-10 22:39:11] [TYPE: REGISTRY_ADD] [User: Unknown] [GameID: c7cc2003-7ada-4cd0-a265-8711d1d6a370] | Игра c7cc2003-7ada-4cd0-a265-8711d1d6a370 добавлена. Всего игр: 1
+[2025-11-10 22:39:11] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: Qr-M6y8nZeX29LAAAAAB] [GameID: c7cc2003-7ada-4cd0-a265-8711d1d6a370] | User started new PVE game against Bot_Easy.
+[2025-11-10 22:41:07] [TYPE: SESSION_END] [User: Unknown] [SID: Qr-M6y8nZeX29LAAAAAB] | User 'Babayan' disconnected. Session duration: 0:02:00
+[2025-11-10 22:41:07] [TYPE: REGISTRY_DISSOC] [User: Unknown] [SID: Qr-M6y8nZeX29LAAAAAB] [GameID: c7cc2003-7ada-4cd0-a265-8711d1d6a370] | SID Qr-M6y8nZeX29LAAAAAB отвязан от игры c7cc2003-7ada-4cd0-a265-8711d1d6a370
+[2025-11-10 22:41:07] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: Qr-M6y8nZeX29LAAAAAB] [GameID: c7cc2003-7ada-4cd0-a265-8711d1d6a370] | Player disconnected from game.
+Инициализирован. Использует 'gnubg_service'. Пул потоков: 16 worker(ов).
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 22:41:42] [TYPE: SESSION_START] [User: Babayan] [SID: hU2eg_y21oXWSmVFAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 22:41:47] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 9ee08f3a-47bd-4117-9f37-c99c1cf1e158] | Экземпляр сессии 9ee08f3a-47bd-4117-9f37-c99c1cf1e158 (Фасад) создан.
+[2025-11-10 22:41:47] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 9ee08f3a-47bd-4117-9f37-c99c1cf1e158] | Сессия 9ee08f3a-47bd-4117-9f37-c99c1cf1e158 настроена для PVE.
+[2025-11-10 22:41:47] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: 9ee08f3a-47bd-4117-9f37-c99c1cf1e158] | State -> AWAITING_READY (PVE Setup)
+[2025-11-10 22:41:47] [TYPE: GAME_CREATED] [User: Babayan] [SID: hU2eg_y21oXWSmVFAAAB] [GameID: 9ee08f3a-47bd-4117-9f37-c99c1cf1e158] | PVE игра 9ee08f3a-47bd-4117-9f37-c99c1cf1e158 создана для Babayan
+[2025-11-10 22:41:47] [TYPE: REGISTRY_ADD] [User: Unknown] [GameID: 9ee08f3a-47bd-4117-9f37-c99c1cf1e158] | Игра 9ee08f3a-47bd-4117-9f37-c99c1cf1e158 добавлена. Всего игр: 1
+[2025-11-10 22:41:47] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: hU2eg_y21oXWSmVFAAAB] [GameID: 9ee08f3a-47bd-4117-9f37-c99c1cf1e158] | User started new PVE game against Bot_Easy.
+[2025-11-10 22:41:50] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: 9ee08f3a-47bd-4117-9f37-c99c1cf1e158] | State -> STARTING_ROLL (PVE client_ready_for_roll received)
+[2025-11-10 22:41:50] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: 9ee08f3a-47bd-4117-9f37-c99c1cf1e158] | State -> PLAYING (PVE First Roll Resolved)
+[2025-11-10 22:43:22] [TYPE: SESSION_END] [User: Unknown] [SID: hU2eg_y21oXWSmVFAAAB] | User 'Babayan' disconnected. Session duration: 0:01:39
+[2025-11-10 22:43:22] [TYPE: REGISTRY_DISSOC] [User: Unknown] [SID: hU2eg_y21oXWSmVFAAAB] [GameID: 9ee08f3a-47bd-4117-9f37-c99c1cf1e158] | SID hU2eg_y21oXWSmVFAAAB отвязан от игры 9ee08f3a-47bd-4117-9f37-c99c1cf1e158
+[2025-11-10 22:43:22] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: hU2eg_y21oXWSmVFAAAB] [GameID: 9ee08f3a-47bd-4117-9f37-c99c1cf1e158] | Player disconnected from game.
+[2025-11-10 22:44:22] [TYPE: REGISTRY_REMOVE] [User: Unknown] [GameID: 9ee08f3a-47bd-4117-9f37-c99c1cf1e158] | Игра 9ee08f3a-47bd-4117-9f37-c99c1cf1e158 удалена. Осталось игр: 0
+Инициализирован. Использует 'gnubg_service'. Пул потоков: 16 worker(ов).
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 22:49:51] [TYPE: SESSION_START] [User: Babayan] [SID: YxJHm3BwWCf04BNDAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 22:49:56] [TYPE: SESSION_INIT] [User: Unknown] [GameID: d258cc6c-00bc-47ef-8142-27f1b9a5b7e3] | Экземпляр сессии d258cc6c-00bc-47ef-8142-27f1b9a5b7e3 (Фасад) создан.
+[2025-11-10 22:49:56] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: d258cc6c-00bc-47ef-8142-27f1b9a5b7e3] | Сессия d258cc6c-00bc-47ef-8142-27f1b9a5b7e3 настроена для PVE.
+[2025-11-10 22:49:56] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: d258cc6c-00bc-47ef-8142-27f1b9a5b7e3] | State -> AWAITING_READY (PVE Setup)
+[2025-11-10 22:49:56] [TYPE: GAME_CREATED] [User: Babayan] [SID: YxJHm3BwWCf04BNDAAAB] [GameID: d258cc6c-00bc-47ef-8142-27f1b9a5b7e3] | PVE игра d258cc6c-00bc-47ef-8142-27f1b9a5b7e3 создана для Babayan
+[2025-11-10 22:49:56] [TYPE: REGISTRY_ADD] [User: Unknown] [GameID: d258cc6c-00bc-47ef-8142-27f1b9a5b7e3] | Игра d258cc6c-00bc-47ef-8142-27f1b9a5b7e3 добавлена. Всего игр: 1
+[2025-11-10 22:49:56] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: YxJHm3BwWCf04BNDAAAB] [GameID: d258cc6c-00bc-47ef-8142-27f1b9a5b7e3] | User started new PVE game against Bot_Easy.
+[2025-11-10 22:49:58] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: d258cc6c-00bc-47ef-8142-27f1b9a5b7e3] | State -> STARTING_ROLL (PVE client_ready_for_roll received)
+[2025-11-10 22:49:58] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: d258cc6c-00bc-47ef-8142-27f1b9a5b7e3] | State -> PLAYING (PVE First Roll Resolved)
+[2025-11-10 22:51:31] [TYPE: SESSION_END] [User: Unknown] [SID: YxJHm3BwWCf04BNDAAAB] | User 'Babayan' disconnected. Session duration: 0:01:39
+[2025-11-10 22:51:31] [TYPE: REGISTRY_DISSOC] [User: Unknown] [SID: YxJHm3BwWCf04BNDAAAB] [GameID: d258cc6c-00bc-47ef-8142-27f1b9a5b7e3] | SID YxJHm3BwWCf04BNDAAAB отвязан от игры d258cc6c-00bc-47ef-8142-27f1b9a5b7e3
+[2025-11-10 22:51:31] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: YxJHm3BwWCf04BNDAAAB] [GameID: d258cc6c-00bc-47ef-8142-27f1b9a5b7e3] | Player disconnected from game.
+[2025-11-10 22:52:31] [TYPE: REGISTRY_REMOVE] [User: Unknown] [GameID: d258cc6c-00bc-47ef-8142-27f1b9a5b7e3] | Игра d258cc6c-00bc-47ef-8142-27f1b9a5b7e3 удалена. Осталось игр: 0
+Инициализирован. Использует 'gnubg_service'. Пул потоков: 16 worker(ов).
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 22:57:46] [TYPE: SESSION_START] [User: Babayan] [SID: yh0poIJzCHO1psdMAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 22:57:49] [TYPE: SESSION_INIT] [User: Unknown] [GameID: b1b0d3fa-bb11-451e-b96f-fb79cb366ddb] | Экземпляр сессии b1b0d3fa-bb11-451e-b96f-fb79cb366ddb (Фасад) создан.
+[2025-11-10 22:57:49] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: b1b0d3fa-bb11-451e-b96f-fb79cb366ddb] | Сессия b1b0d3fa-bb11-451e-b96f-fb79cb366ddb настроена для PVE.
+[2025-11-10 22:57:49] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: b1b0d3fa-bb11-451e-b96f-fb79cb366ddb] | State -> AWAITING_READY (PVE Setup)
+[2025-11-10 22:57:49] [TYPE: GAME_CREATED] [User: Babayan] [SID: yh0poIJzCHO1psdMAAAB] [GameID: b1b0d3fa-bb11-451e-b96f-fb79cb366ddb] | PVE игра b1b0d3fa-bb11-451e-b96f-fb79cb366ddb создана для Babayan
+[2025-11-10 22:57:49] [TYPE: REGISTRY_ADD] [User: Unknown] [GameID: b1b0d3fa-bb11-451e-b96f-fb79cb366ddb] | Игра b1b0d3fa-bb11-451e-b96f-fb79cb366ddb добавлена. Всего игр: 1
+[2025-11-10 22:57:49] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: yh0poIJzCHO1psdMAAAB] [GameID: b1b0d3fa-bb11-451e-b96f-fb79cb366ddb] | User started new PVE game against Bot_Easy.
+[2025-11-10 22:57:52] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: b1b0d3fa-bb11-451e-b96f-fb79cb366ddb] | State -> STARTING_ROLL (PVE client_ready_for_roll received)
+[2025-11-10 22:57:52] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: b1b0d3fa-bb11-451e-b96f-fb79cb366ddb] | State -> PLAYING (PVE First Roll Resolved)
+[2025-11-10 22:59:26] [TYPE: SESSION_END] [User: Unknown] [SID: yh0poIJzCHO1psdMAAAB] | User 'Babayan' disconnected. Session duration: 0:01:39
+[2025-11-10 22:59:26] [TYPE: REGISTRY_DISSOC] [User: Unknown] [SID: yh0poIJzCHO1psdMAAAB] [GameID: b1b0d3fa-bb11-451e-b96f-fb79cb366ddb] | SID yh0poIJzCHO1psdMAAAB отвязан от игры b1b0d3fa-bb11-451e-b96f-fb79cb366ddb
+[2025-11-10 22:59:26] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: yh0poIJzCHO1psdMAAAB] [GameID: b1b0d3fa-bb11-451e-b96f-fb79cb366ddb] | Player disconnected from game.
+[2025-11-10 23:00:26] [TYPE: REGISTRY_REMOVE] [User: Unknown] [GameID: b1b0d3fa-bb11-451e-b96f-fb79cb366ddb] | Игра b1b0d3fa-bb11-451e-b96f-fb79cb366ddb удалена. Осталось игр: 0
+Инициализирован. Использует 'gnubg_service'. Пул потоков: 16 worker(ов).
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-10 23:07:39] [TYPE: SESSION_START] [User: Babayan] [SID: JCvOSBwba89o2SH7AAAB] | User 'Babayan' authenticated and joined.
+[2025-11-10 23:07:42] [TYPE: SESSION_INIT] [User: Unknown] [GameID: cea98925-c6b1-4c28-a86e-578e01a6f289] | Экземпляр сессии cea98925-c6b1-4c28-a86e-578e01a6f289 (Фасад) создан.
+[2025-11-10 23:07:42] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: cea98925-c6b1-4c28-a86e-578e01a6f289] | Сессия cea98925-c6b1-4c28-a86e-578e01a6f289 настроена для PVE.
+[2025-11-10 23:07:42] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: cea98925-c6b1-4c28-a86e-578e01a6f289] | State -> AWAITING_READY (PVE Setup)
+[2025-11-10 23:07:42] [TYPE: GAME_CREATED] [User: Babayan] [SID: JCvOSBwba89o2SH7AAAB] [GameID: cea98925-c6b1-4c28-a86e-578e01a6f289] | PVE игра cea98925-c6b1-4c28-a86e-578e01a6f289 создана для Babayan
+[2025-11-10 23:07:42] [TYPE: REGISTRY_ADD] [User: Unknown] [GameID: cea98925-c6b1-4c28-a86e-578e01a6f289] | Игра cea98925-c6b1-4c28-a86e-578e01a6f289 добавлена. Всего игр: 1
+[2025-11-10 23:07:42] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: JCvOSBwba89o2SH7AAAB] [GameID: cea98925-c6b1-4c28-a86e-578e01a6f289] | User started new PVE game against Bot_Easy.
+[2025-11-10 23:07:45] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: cea98925-c6b1-4c28-a86e-578e01a6f289] | State -> STARTING_ROLL (PVE client_ready_for_roll received)
+[2025-11-10 23:07:45] [TYPE: GAME_LOGIC] [User: Unknown] [GameID: cea98925-c6b1-4c28-a86e-578e01a6f289] | Ничья в первом броске (cea98925-c6b1-4c28-a86e-578e01a6f289). Автоматический переброс.
+[2025-11-10 23:07:45] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: cea98925-c6b1-4c28-a86e-578e01a6f289] | State -> PLAYING (PVE First Roll Resolved)
+[2025-11-10 23:08:34] [TYPE: SESSION_END] [User: Unknown] [SID: JCvOSBwba89o2SH7AAAB] | User 'Babayan' disconnected. Session duration: 0:00:55
+[2025-11-10 23:08:34] [TYPE: REGISTRY_DISSOC] [User: Unknown] [SID: JCvOSBwba89o2SH7AAAB] [GameID: cea98925-c6b1-4c28-a86e-578e01a6f289] | SID JCvOSBwba89o2SH7AAAB отвязан от игры cea98925-c6b1-4c28-a86e-578e01a6f289
+[2025-11-10 23:08:34] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: JCvOSBwba89o2SH7AAAB] [GameID: cea98925-c6b1-4c28-a86e-578e01a6f289] | Player disconnected from game.
+[2025-11-10 23:09:34] [TYPE: REGISTRY_REMOVE] [User: Unknown] [GameID: cea98925-c6b1-4c28-a86e-578e01a6f289] | Игра cea98925-c6b1-4c28-a86e-578e01a6f289 удалена. Осталось игр: 0
+Инициализирован. Использует 'gnubg_service'. Пул потоков: 16 worker(ов).
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+Инициализирован. Использует 'gnubg_service'. Пул потоков: 16 worker(ов).
+Инициализация базы данных...
+Кэширование хэшей аватарок...
+Кэширование хэшей баннеров...
+Запуск фонового потока-потребителя (QueueConsumer)...
+Приложение 'backgammon-server' создано.
+Путь к БД: /home/vater/CG Mobile Server/instance/users.db
+Путь к логам: /home/vater/CG Mobile Server/instance/logs/application.log
+[2025-11-11 01:44:25] [TYPE: SESSION_START] [User: Babayan] [SID: lWluCkNSQEntfwMqAAAB] | User 'Babayan' authenticated and joined.
+[2025-11-11 01:44:27] [TYPE: SESSION_INIT] [User: Unknown] [GameID: 34d9934b-beae-48f4-bef4-67490fbf54d3] | Экземпляр сессии 34d9934b-beae-48f4-bef4-67490fbf54d3 (Фасад) создан.
+[2025-11-11 01:44:27] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: 34d9934b-beae-48f4-bef4-67490fbf54d3] | Сессия 34d9934b-beae-48f4-bef4-67490fbf54d3 настроена для PVE.
+[2025-11-11 01:44:27] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: 34d9934b-beae-48f4-bef4-67490fbf54d3] | State -> AWAITING_READY (PVE Setup)
+[2025-11-11 01:44:27] [TYPE: GAME_CREATED] [User: Babayan] [SID: lWluCkNSQEntfwMqAAAB] [GameID: 34d9934b-beae-48f4-bef4-67490fbf54d3] | PVE игра 34d9934b-beae-48f4-bef4-67490fbf54d3 создана для Babayan
+[2025-11-11 01:44:27] [TYPE: REGISTRY_ADD] [User: Unknown] [GameID: 34d9934b-beae-48f4-bef4-67490fbf54d3] | Игра 34d9934b-beae-48f4-bef4-67490fbf54d3 добавлена. Всего игр: 1
+[2025-11-11 01:44:27] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: lWluCkNSQEntfwMqAAAB] [GameID: 34d9934b-beae-48f4-bef4-67490fbf54d3] | User started new PVE game against Bot_Easy.
+[2025-11-11 01:44:30] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: 34d9934b-beae-48f4-bef4-67490fbf54d3] | State -> STARTING_ROLL (PVE client_ready_for_roll received)
+[2025-11-11 01:44:30] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: 34d9934b-beae-48f4-bef4-67490fbf54d3] | State -> PLAYING (PVE First Roll Resolved)
+[2025-11-11 01:45:40] [TYPE: SESSION_END] [User: Unknown] [SID: lWluCkNSQEntfwMqAAAB] | User 'Babayan' disconnected. Session duration: 0:01:14
+[2025-11-11 01:45:40] [TYPE: REGISTRY_DISSOC] [User: Unknown] [SID: lWluCkNSQEntfwMqAAAB] [GameID: 34d9934b-beae-48f4-bef4-67490fbf54d3] | SID lWluCkNSQEntfwMqAAAB отвязан от игры 34d9934b-beae-48f4-bef4-67490fbf54d3
+[2025-11-11 01:45:40] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: lWluCkNSQEntfwMqAAAB] [GameID: 34d9934b-beae-48f4-bef4-67490fbf54d3] | Player disconnected from game.
+[2025-11-11 01:46:40] [TYPE: REGISTRY_REMOVE] [User: Unknown] [GameID: 34d9934b-beae-48f4-bef4-67490fbf54d3] | Игра 34d9934b-beae-48f4-bef4-67490fbf54d3 удалена. Осталось игр: 0
+[2025-11-11 01:48:55] [TYPE: SESSION_START] [User: Babayan] [SID: 1OHD1iP6YZo9Fm3sAAAD] | User 'Babayan' authenticated and joined.
+[2025-11-11 01:48:58] [TYPE: SESSION_INIT] [User: Unknown] [GameID: ac43fb9f-a975-4947-b3b5-d3a79c74c129] | Экземпляр сессии ac43fb9f-a975-4947-b3b5-d3a79c74c129 (Фасад) создан.
+[2025-11-11 01:48:58] [TYPE: SESSION_SETUP_PVE] [User: Unknown] [GameID: ac43fb9f-a975-4947-b3b5-d3a79c74c129] | Сессия ac43fb9f-a975-4947-b3b5-d3a79c74c129 настроена для PVE.
+[2025-11-11 01:48:58] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: ac43fb9f-a975-4947-b3b5-d3a79c74c129] | State -> AWAITING_READY (PVE Setup)
+[2025-11-11 01:48:58] [TYPE: GAME_CREATED] [User: Babayan] [SID: 1OHD1iP6YZo9Fm3sAAAD] [GameID: ac43fb9f-a975-4947-b3b5-d3a79c74c129] | PVE игра ac43fb9f-a975-4947-b3b5-d3a79c74c129 создана для Babayan
+[2025-11-11 01:48:58] [TYPE: REGISTRY_ADD] [User: Unknown] [GameID: ac43fb9f-a975-4947-b3b5-d3a79c74c129] | Игра ac43fb9f-a975-4947-b3b5-d3a79c74c129 добавлена. Всего игр: 1
+[2025-11-11 01:48:58] [TYPE: GAME_CREATE_PVE] [User: Babayan] [SID: 1OHD1iP6YZo9Fm3sAAAD] [GameID: ac43fb9f-a975-4947-b3b5-d3a79c74c129] | User started new PVE game against Bot_Easy.
+[2025-11-11 01:49:01] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: ac43fb9f-a975-4947-b3b5-d3a79c74c129] | State -> STARTING_ROLL (PVE client_ready_for_roll received)
+[2025-11-11 01:49:01] [TYPE: STATE_CHANGE] [User: Unknown] [GameID: ac43fb9f-a975-4947-b3b5-d3a79c74c129] | State -> PLAYING (PVE First Roll Resolved)
+[2025-11-11 01:49:45] [TYPE: SESSION_END] [User: Unknown] [SID: 1OHD1iP6YZo9Fm3sAAAD] | User 'Babayan' disconnected. Session duration: 0:00:50
+[2025-11-11 01:49:45] [TYPE: REGISTRY_DISSOC] [User: Unknown] [SID: 1OHD1iP6YZo9Fm3sAAAD] [GameID: ac43fb9f-a975-4947-b3b5-d3a79c74c129] | SID 1OHD1iP6YZo9Fm3sAAAD отвязан от игры ac43fb9f-a975-4947-b3b5-d3a79c74c129
+[2025-11-11 01:49:45] [TYPE: PLAYER_DISCONNECT] [User: Unknown] [SID: 1OHD1iP6YZo9Fm3sAAAD] [GameID: ac43fb9f-a975-4947-b3b5-d3a79c74c129] | Player disconnected from game.
+[2025-11-11 01:50:45] [TYPE: REGISTRY_REMOVE] [User: Unknown] [GameID: ac43fb9f-a975-4947-b3b5-d3a79c74c129] | Игра ac43fb9f-a975-4947-b3b5-d3a79c74c129 удалена. Осталось игр: 0
