@@ -140,7 +140,7 @@ flask-backgammon-api/
 
     REST API: для аутентификации, получения профиля пользователя, ассетов и т.д.
 
-    WebSockets (SocketIO): для обмена игровыми данными (ходы, состояние доски, матчи) в реальном времени."
+    WebSockets (SocketIO): для обмена игровыми данными (ходы, состояние доски, матчи) в реальном времени.
 
 <img width="562" height="1280" alt="изображение" src="https://github.com/user-attachments/assets/da0acda7-12b3-43a2-bbe3-03c4ac8acde9" />
 <img width="562" height="1280" alt="изображение" src="https://github.com/user-attachments/assets/095b6ea1-8f35-48ed-809e-92090a95fd63" />
