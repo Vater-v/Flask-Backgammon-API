@@ -4,6 +4,9 @@ Flask-SocketIO
 Flask-Limiter
 Flask-JWT-Extended
 
+# --- Валидация API ---
+marshmallow
+
 # --- Сервер (для Production) ---
 gunicorn
 eventlet
