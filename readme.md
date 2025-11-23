@@ -2,6 +2,10 @@
 
 Серверная часть (backend) для многопользовательской онлайн-игры в нарды. Этот проект построен на Flask и использует Flask-SocketIO для обработки игровой логики в реальном времени, а также REST API на Flask для аутентификации, управления пользователями и ассетами.
 
+
+<img width="562" height="1280" alt="изображение" src="https://github.com/user-attachments/assets/da0acda7-12b3-43a2-bbe3-03c4ac8acde9" />
+<img width="562" height="1280" alt="изображение" src="https://github.com/user-attachments/assets/095b6ea1-8f35-48ed-809e-92090a95fd63" />
+
 ## Основные возможности
 
 * **Аутентификация:** Безопасная аутентификация пользователей с использованием JSON Web Tokens (JWT).
@@ -142,8 +146,6 @@ flask-backgammon-api/
 
     WebSockets (SocketIO): для обмена игровыми данными (ходы, состояние доски, матчи) в реальном времени.
 
-<img width="562" height="1280" alt="изображение" src="https://github.com/user-attachments/assets/da0acda7-12b3-43a2-bbe3-03c4ac8acde9" />
-<img width="562" height="1280" alt="изображение" src="https://github.com/user-attachments/assets/095b6ea1-8f35-48ed-809e-92090a95fd63" />
 
 
 v0.18
